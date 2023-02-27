@@ -1,0 +1,11 @@
+---
+title: "WCS Resources"
+---
+
+Wellcome Connecting Science develops courses for genomics and bioinformatics training. 
+
+
+this is content
+
+giraffe
+rhino

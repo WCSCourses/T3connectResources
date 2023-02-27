@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "WCS Resources"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents: auto
+    
+format:
+  html:
+    theme:
+      light: [materia, theme-light.scss]
+      dark: [materia, theme-dark.scss]
+
+editor: visual
+
+execute:
+  freeze: auto
+  
+sidebar:
+  contents: auto
+  
+
