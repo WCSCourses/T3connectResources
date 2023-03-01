@@ -7,7 +7,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: courses.qmd
+        text: Courses
+      - href: resources.qmd
+        text: Resources
+      - href: about.qmd
+        text: About Us
+
   sidebar:
     style: "docked"
     search: true

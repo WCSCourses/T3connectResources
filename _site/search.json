@@ -4,13 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nthis is a new header\nadding content here\npineapple\ncorn\npopcorn"
+    "text": "About us at Wellcome Connecting Science\nadding content here\npineapple\ncorn\npopcorn"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "wcs_resources",
+    "title": "WCS Resources",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nthis is content\ngiraffe rhino"
+    "text": "Wellcome Connecting Science develops courses for genomics and bioinformatics training.\nthis is content\ngiraffe rhino"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "About courses\ncancer course\ngenetics course\nmicrobiome course"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "About resources\nYour digital mentor podcast\ncool podcast\nHow to VM"
   }
 ]
