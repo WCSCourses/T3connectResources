@@ -4,6 +4,7 @@ project:
 website:
   title: "WCS Resources"
   navbar:
+    logo: /img/WCS_Logo-Primary_Black.jpg
     left:
       - href: index.qmd
         text: Home
@@ -13,7 +14,13 @@ website:
         text: Resources
       - href: about.qmd
         text: About Us
-
+  page-footer: 
+    left: "This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement" 
+    right: 
+      - icon: github
+        href: https://github.com/WCSCourses
+      - icon: twitter 
+        href: https://twitter.com/eventsWCS 
   sidebar:
     style: "docked"
     search: true
