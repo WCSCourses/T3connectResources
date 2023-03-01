@@ -21,7 +21,6 @@ website:
         href: https://github.com/WCSCourses
       - icon: twitter 
         href: https://twitter.com/eventsWCS 
-  google-analytics: "G-D8PW6X8N5T"
 
   sidebar:
     style: "docked"
