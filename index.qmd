@@ -1,11 +1,9 @@
 ---
-title: "WCS Resources"
+title: "T3Connect Resources"
 ---
 
-Wellcome Connecting Science develops courses for genomics and bioinformatics training. 
+This page is a repository for training resources designed and developed for the T3Connect courses.
 
+[***T3Connect -- Data Science and Genomic Pathogen Surveillance Training Programme***](https://t3connect.org/#about) is a series of train-the-trainer courses, funded by [*UKRI*](https://www.ukri.org/), which aims to strengthen capacity in data science and pathogen genomics for applications in infectious diseases.
 
-this is content
-
-giraffe
-rhino
+A collaboration between the [Centre for Genomic Pathogen Surveillance](https://www.pathogensurveillance.net/) and [Wellcome Connecting Science](https://www.wellcomeconnectingscience.org/), the programme applies the concept of forward training and equip professionals who interface with pathogen genomics data science with the skills needed to train others.

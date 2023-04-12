@@ -1,0 +1,55 @@
+---
+title: "Data Viz workshop"
+---
+
+This page provides resources designed and developed for the Data Viz workshop.
+
+## **Workshop outline:**
+
+1.  Discuss aspects of good storytelling. 
+
+2.  Reflect on how one can use visualisation to tell a story about data.
+
+3.  In groups, discuss what are the best visualisation methods for a given task
+
+4.  Demonstrate how Microreact can be used to tell a story.
+
+5.  In a hands-on exercise, apply techniques from Microreact to tell a story. 
+
+6.  Provide resources to aid healthcare workers visualise their data.
+
+## **Introduction**
+
+[Presentation](presentations/Telling a story and making a point.pdf)
+
+**Principles of good story telling**
+
+-   Keep it simple, where possible
+
+-   Build up towards complex figures
+
+-   Be consistent, but do not be repetitive
+
+**Examples:** [Last chapter of the book "Fundamentals of Data Visualization" by Claus O. Wilke ](https://clauswilke.com/dataviz/telling-a-story.html)
+
+**Clever trick examples**
+
+-   [sometimes cropping large values is justified](https://www.visualisingdata.com/2017/01/little-visualisation-design-part-32/)
+
+-   [finding a common scale size and arrangement of all the charts](https://visualisingdata.com/2016/05/little-visualisation-design-part-16/)
+
+-   [using a fading effect at the lower end of the chart](https://www.visualisingdata.com/2016/03/the-little-of-visualisation-design-part-5/)
+
+-   [setting the y-axis maximum](https://www.visualisingdata.com/2016/03/the-little-of-visualisation-design-part-2/)
+
+-   [using irregular axis scales](https://www.visualisingdata.com/2019/06/the-little-of-visualisation-design-part-64/)
+
+-   [when it makes more sense to directly label the bars with their actual values](https://www.visualisingdata.com/2019/12/the-little-of-visualisation-design-part-69/)
+
+## [**Group Activity: Real scenario from a public health lab in the USA: Can we identify ways to reduce poor sequencing outcomes?**](dataviz_groupactivity.qmd)
+
+## [**Demonstration on how Microreact can be used to tell a story**](dataviz_microreact_demo.qmd)
+
+## [**Activity: Using Microreact to tell our own story**](dataviz_Microreact_activity.qmd)
+
+## Resources: **Microreact instructional videos**

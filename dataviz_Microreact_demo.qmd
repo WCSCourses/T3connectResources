@@ -1,0 +1,23 @@
+---
+title: "Microreact demo"
+---
+
+**Microreact can be used to describe a large collection of 1451 isolates of *Klebsiella pneumoniae*, sampled from four countries (Colombia, India, Nigeria and The Philippines) between 2013 and 2019.**\
+\
+*Klebsiella pneumoniae* is a species of bacteria that is commonly found in natural and man-made environments. It has the impressive ability to colonise diverse animal species, including ourselves, pets and livestock. In healthy humans, *K. pneumoniae* is frequently found on the skin, in the mouth, and in the respiratory and gastrointestinal tracts. But *K. pneumoniae* is also an opportunistic pathogen, and can cause a wide range of infections in humans (and other animals). These include urinary tract, respiratory and bloodstream infections. \
+
+In recent years, there have been an increasing number of infections with *K. pneumoniae* that are resistant to antibiotics. One study found that carbapenem-resistant *K. pneumoniae* is the fastest-growing antibiotic resistance threat in Europe, with a 6-fold increase in the number of attributable deaths between 2007 and 2015. *K. pneumoniae* infections are particularly associated with patients who are very young (i.e. new-born babies), elderly, or immunocompromised.
+
+[Microreact demo link](https://microreact.org/project/6EsqDbMLBouELLABbgTtmL-kpn-global-surveillance-india#ucdj-kpn-global)
+
+Data taken from a series of articles published in 2021 in the journal Clinical Infectious Diseases:\
+\
+[Global collection article](https://academic.oup.com/cid/article/73/Supplement_4/S325/6447012)\
+\
+[Philippines article](https://academic.oup.com/cid/article/73/Supplement_4/S316/6447008)
+
+[India article](https://academic.oup.com/cid/article/73/Supplement_4/S300/6447006)
+
+[Nigeria article](https://academic.oup.com/cid/article/73/Supplement_4/S308/6447011)
+
+[Colombia article](https://academic.oup.com/cid/article/73/Supplement_4/S290/6447009)

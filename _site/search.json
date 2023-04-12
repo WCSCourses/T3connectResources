@@ -1,30 +1,100 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "dataviz_Microreact_demo.html",
+    "href": "dataviz_Microreact_demo.html",
+    "title": "Microreact demo",
     "section": "",
-    "text": "About us at Wellcome Connecting Science\nadding content here\npineapple\ncorn\npopcorn"
+    "text": "Microreact can be used to describe a large collection of 1451 isolates of Klebsiella pneumoniae, sampled from four countries (Colombia, India, Nigeria and The Philippines) between 2013 and 2019.\n\nKlebsiella pneumoniae is a species of bacteria that is commonly found in natural and man-made environments. It has the impressive ability to colonise diverse animal species, including ourselves, pets and livestock. In healthy humans, K. pneumoniae is frequently found on the skin, in the mouth, and in the respiratory and gastrointestinal tracts. But K. pneumoniae is also an opportunistic pathogen, and can cause a wide range of infections in humans (and other animals). These include urinary tract, respiratory and bloodstream infections. \n\nIn recent years, there have been an increasing number of infections with K. pneumoniae that are resistant to antibiotics. One study found that carbapenem-resistant K. pneumoniae is the fastest-growing antibiotic resistance threat in Europe, with a 6-fold increase in the number of attributable deaths between 2007 and 2015. K. pneumoniae infections are particularly associated with patients who are very young (i.e. new-born babies), elderly, or immunocompromised.\nMicroreact demo link\nData taken from a series of articles published in 2021 in the journal Clinical Infectious Diseases:\n\nGlobal collection article\n\nPhilippines article\nIndia article\nNigeria article\nColombia article"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "WCS Resources",
+    "title": "T3Connect Resources",
     "section": "",
-    "text": "Wellcome Connecting Science develops courses for genomics and bioinformatics training.\nthis is content\ngiraffe rhino"
+    "text": "This page is a repository for training resources designed and developed for the T3Connect courses.\nT3Connect – Data Science and Genomic Pathogen Surveillance Training Programme is a series of train-the-trainer courses, funded by UKRI, which aims to strengthen capacity in data science and pathogen genomics for applications in infectious diseases.\nA collaboration between the Centre for Genomic Pathogen Surveillance and Wellcome Connecting Science, the programme applies the concept of forward training and equip professionals who interface with pathogen genomics data science with the skills needed to train others."
   },
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Courses",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "About courses\ncancer course\ngenetics course\nmicrobiome course"
+    "text": "T3Connect – Data Science and Genomic Pathogen Surveillance Training Programme is a series of train-the-trainer courses, funded by UKRI, which aims to strengthen capacity in data science and pathogen genomics for applications in infectious diseases in the UK. A collaboration between the Centre for Genomic Pathogen Surveillance and Wellcome Connecting Science, the programme applies the concept of forward training and equip professionals who interface with pathogen genomics data science with the skills needed to train others.\nTrain-the-trainer strategies provide an effective method for empowering scientists with tools and resources to pass on their knowledge and skills to their colleagues and multidisciplinary peers, thereby accelerating capacity for genomics in healthcare.\nThis FREE course provides participants with methods and techniques for training adult learners in analysis of genomics as applied in clinical management and public health. It integrates pedagogical aspects with pathogen genomic analysis, application and interpretation for management and surveillance of infectious disease. Participants will develop deeper knowledge of teaching and facilitation methodologies that they can later apply in their respective fields and work environments.\nTarget Audience\nThe course is aimed at researchers, healthcare and training professionals who are involved in any aspect of genomics or data science, and who are interested in building their capabilities to effectively share their knowledge and skills with others focused on pathogen genomic analysis, application and interpretation in management of infectious disease. This includes clinical, biomedical, and public health scientists, epidemiologists, bioinformaticians.\nParticipants may also be involved in genomics technologies and computational biology training programmes, and interested in developing training resources for potential application of pathogen genomics in healthcare and public health."
+  },
+  {
+    "objectID": "dataviz_Microreact_activity.html",
+    "href": "dataviz_Microreact_activity.html",
+    "title": "Dataviz Microreact activity",
+    "section": "",
+    "text": "Explore and describe parts of the Klebsiella pneumoniae global collection. \n\nDemos to start your story\nKlebsiella pneumoniae in Colombia\n\nPresent WGS QC statistics in a chart. \nWhat are the dominating STs in Colombia?\nPlot metadata blocks for CTX-M-15, NDM-1, KPC and  OXA genes. What are the prevalent AMR mechanisms detected ?\nWhich STs are associated with the presence of carbapenamase genes?\n\nColombia microreact link\n\nColombia article"
+  },
+  {
+    "objectID": "dataviz_groupactivity.html",
+    "href": "dataviz_groupactivity.html",
+    "title": "Dataviz workshop group activity",
+    "section": "",
+    "text": "Group Activity: Real scenario from a public health lab in the USA: Can we identify ways to reduce poor sequencing outcomes?\nA state public health lab receives samples from individual labs. The data is aggregated in a spreadsheet.\nThe state public health lab sequences samples and analyses the data using bioinformatics methods, and adds their results to a spreadsheet.\nPlease find below three alternative data visualisation options:\n\nUsing a spreadsheet\nUsing Python (this is available in Google Colab)\nUsing Data-flo and Microreact\n\nWork in groups to answer the following questions and present your findings to the rest of the classroom.\n*What happens if the data input changes ?\nWhat if we add more input data ?\nWhat if date intervals change ?\nWhat if the question changes, would you change the methods you used to train your audience?\nWhich method would you train others to apply and why ?\nCan you think which tools and applications would you use to analyse data in different contexts? eg for difference audience*\nPlease free to express your thoughts on different technologies/implementations by replying to this forum."
   },
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Resources",
+    "title": "Overview",
     "section": "",
-    "text": "About resources\nYour digital mentor podcast\ncool podcast\nHow to VM"
+    "text": "The materials provided in this repository are FREE to use.\nThis work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement."
+  },
+  {
+    "objectID": "dataviz_groupactivity_python.html",
+    "href": "dataviz_groupactivity_python.html",
+    "title": "dataviz_groupactivity_python",
+    "section": "",
+    "text": "Five labs submit samples to a regional reference centre, for QC and bioinformatics analysis.\nThe data is received in a table format, from a live google sheet.\nThe regional reference centre processes the data and, for each sample, give an output of Pass / Fail.\nThe goals of this exercise are to 1) find out which labs have the quickest turn around times 2) find out if some labs lag behind quality control\n```{python} import pandas as pd ```"
+  },
+  {
+    "objectID": "dataviz.html",
+    "href": "dataviz.html",
+    "title": "Data Viz workshop",
+    "section": "",
+    "text": "This page provides resources designed and developed for the Data Viz workshop."
+  },
+  {
+    "objectID": "dataviz.html#workshop-outline",
+    "href": "dataviz.html#workshop-outline",
+    "title": "Data Viz workshop",
+    "section": "Workshop outline:",
+    "text": "Workshop outline:\n\nDiscuss aspects of good storytelling. \nReflect on how one can use visualisation to tell a story about data.\nIn groups, discuss what are the best visualisation methods for a given task\nDemonstrate how Microreact can be used to tell a story.\nIn a hands-on exercise, apply techniques from Microreact to tell a story. \nProvide resources to aid healthcare workers visualise their data."
+  },
+  {
+    "objectID": "dataviz.html#introduction",
+    "href": "dataviz.html#introduction",
+    "title": "Data Viz workshop",
+    "section": "Introduction",
+    "text": "Introduction\nPresentation\nPrinciples of good story telling\n\nKeep it simple, where possible\nBuild up towards complex figures\nBe consistent, but do not be repetitive\n\nExamples: Last chapter of the book “Fundamentals of Data Visualization” by Claus O. Wilke \nClever trick examples\n\nsometimes cropping large values is justified\nfinding a common scale size and arrangement of all the charts\nusing a fading effect at the lower end of the chart\nsetting the y-axis maximum\nusing irregular axis scales\nwhen it makes more sense to directly label the bars with their actual values"
+  },
+  {
+    "objectID": "dataviz.html#group-activity-real-scenario-from-a-public-health-lab-in-the-usa-can-we-identify-ways-to-reduce-poor-sequencing-outcomes",
+    "href": "dataviz.html#group-activity-real-scenario-from-a-public-health-lab-in-the-usa-can-we-identify-ways-to-reduce-poor-sequencing-outcomes",
+    "title": "Data Viz workshop",
+    "section": "Group Activity: Real scenario from a public health lab in the USA: Can we identify ways to reduce poor sequencing outcomes?",
+    "text": "Group Activity: Real scenario from a public health lab in the USA: Can we identify ways to reduce poor sequencing outcomes?"
+  },
+  {
+    "objectID": "dataviz.html#demonstration-on-how-microreact-can-be-used-to-tell-a-story",
+    "href": "dataviz.html#demonstration-on-how-microreact-can-be-used-to-tell-a-story",
+    "title": "Data Viz workshop",
+    "section": "Demonstration on how Microreact can be used to tell a story",
+    "text": "Demonstration on how Microreact can be used to tell a story"
+  },
+  {
+    "objectID": "dataviz.html#activity-using-microreact-to-tell-our-own-story",
+    "href": "dataviz.html#activity-using-microreact-to-tell-our-own-story",
+    "title": "Data Viz workshop",
+    "section": "Activity: Using Microreact to tell our own story",
+    "text": "Activity: Using Microreact to tell our own story"
+  },
+  {
+    "objectID": "dataviz.html#resources-microreact-instructional-videos",
+    "href": "dataviz.html#resources-microreact-instructional-videos",
+    "title": "Data Viz workshop",
+    "section": "Resources: Microreact instructional videos",
+    "text": "Resources: Microreact instructional videos"
   }
 ]

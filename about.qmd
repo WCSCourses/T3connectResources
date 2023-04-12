@@ -2,12 +2,14 @@
 title: "About"
 ---
 
-#  About us at Wellcome Connecting Science
+[***T3Connect -- Data Science and Genomic Pathogen Surveillance Training Programme***](https://t3connect.org/#about) is a series of train-the-trainer courses, funded by [*UKRI*](https://www.ukri.org/), which aims to strengthen capacity in data science and pathogen genomics for applications in infectious diseases in the UK. A collaboration between the [Centre for Genomic Pathogen Surveillance](https://www.pathogensurveillance.net/) and [Wellcome Connecting Science](https://www.wellcomeconnectingscience.org/), the programme applies the concept of forward training and equip professionals who interface with pathogen genomics data science with the skills needed to train others.
 
-adding content here
+**Train-the-trainer strategies provide an effective method for empowering scientists with tools and resources to pass on their knowledge and skills to their colleagues and multidisciplinary peers, thereby accelerating capacity for genomics in healthcare.**
 
-pineapple
+This FREE course provides participants with methods and techniques for training adult learners in analysis of genomics as applied in clinical management and public health. It integrates pedagogical aspects with pathogen genomic analysis, application and interpretation for management and surveillance of infectious disease. Participants will develop deeper knowledge of teaching and facilitation methodologies that they can later apply in their respective fields and work environments.
 
-corn
+**Target Audience**
 
-popcorn
+The course is aimed at researchers, healthcare and training professionals who are involved in any aspect of genomics or data science, and who are interested in building their capabilities to effectively share their knowledge and skills with others focused on pathogen genomic analysis, application and interpretation in management of infectious disease. This includes clinical, biomedical, and public health scientists, epidemiologists, bioinformaticians.
+
+Participants may also be involved in genomics technologies and computational biology training programmes, and interested in developing training resources for potential application of pathogen genomics in healthcare and public health.

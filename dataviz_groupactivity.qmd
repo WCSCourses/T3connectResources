@@ -1,0 +1,33 @@
+---
+title: "Dataviz workshop group activity"
+---
+
+Group Activity: Real scenario from a public health lab in the USA: Can we identify ways to reduce poor sequencing outcomes?
+
+A state public health lab receives samples from individual labs. The data is aggregated in [a spreadsheet](https://docs.google.com/spreadsheets/d/12rbuCEwZuqoJpeN0PAdNvTkzpHqly9GPwiFP2YeRTtk/edit?usp=sharing).
+
+The state public health lab sequences samples and analyses the data using bioinformatics methods, and adds their results to a spreadsheet.
+
+Please find below three alternative data visualisation options:
+
+1)  Using [a spreadsheet](https://docs.google.com/spreadsheets/d/12rbuCEwZuqoJpeN0PAdNvTkzpHqly9GPwiFP2YeRTtk/edit?usp=sharing)
+
+2)  [Using Python](https://colab.research.google.com/drive/16cMn7MBmgyjHSs4P1T5Mr3txvFzr_j4n?usp=sharing) (this is available in Google Colab)
+
+3)  Using [Data-flo](https://data-flo.io/edit?446ho2pyeKGXWsDeeBkRtb) and [Microreact](https://microreact.org/project/9QP8kJ5j1PL33A2FkHhFDb-unnamed-project)
+
+Work in groups to answer the following questions and present your findings to the rest of the classroom.
+
+\*What happens if the data input changes ?
+
+What if we add more input data ?
+
+What if date intervals change ?
+
+What if the question changes, would you change the methods you used to train your audience?
+
+Which method would you train others to apply and why ?
+
+Can you think which tools and applications would you use to analyse data in different contexts? eg for difference audience\*
+
+Please free to express your thoughts on different technologies/implementations by replying to this forum.

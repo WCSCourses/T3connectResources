@@ -1,0 +1,22 @@
+---
+title: "Dataviz Microreact activity"
+---
+
+Explore and describe parts of the *Klebsiella pneumoniae* global collection. \
+
+**Demos to start your story**
+
+*Klebsiella pneumoniae* in Colombia
+
+-   Present WGS QC statistics in a chart. 
+
+-   What are the dominating STs in Colombia?
+
+-   Plot metadata blocks for CTX-M-15, NDM-1, KPC and  OXA genes. What are the prevalent AMR mechanisms detected ?
+
+-   Which STs are associated with the presence of carbapenamase genes?
+
+[Colombia microreact link](https://microreact.org/project/ojjt1FdUnu3BBVszy2z1yR-kpn-global-surveillance-colombia)\
+\
+[Colombia article\
+](https://academic.oup.com/cid/article/73/Supplement_4/S290/6447009)

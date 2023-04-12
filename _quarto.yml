@@ -2,16 +2,16 @@ project:
   type: website
 
 website:
-  title: "WCS Resources"
+  title: "Resources"
   navbar:
-    logo: /img/WCS_Logo-Primary_Black.jpg
+    logo: /img/LOGOx2-white.png
     left:
       - href: index.qmd
         text: Home
-      - href: courses.qmd
-        text: Courses
-      - href: resources.qmd
-        text: Resources
+      - text: Resources
+        menu:
+          - resources.qmd
+          - dataviz.qmd
       - href: about.qmd
         text: About Us
   page-footer: 
@@ -20,7 +20,7 @@ website:
       - icon: github
         href: https://github.com/WCSCourses
       - icon: twitter 
-        href: https://twitter.com/eventsWCS 
+        href: https://twitter.com/t3connect
 
   sidebar:
     style: "docked"
@@ -40,5 +40,6 @@ execute:
   
 sidebar:
   contents: auto
-  
+
+link-external-newwindow: true
 

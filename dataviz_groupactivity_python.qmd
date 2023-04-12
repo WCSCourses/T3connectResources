@@ -1,0 +1,16 @@
+---
+title: "dataviz_groupactivity_python"
+server: shiny
+---
+
+Five labs submit samples to a regional reference centre, for QC and bioinformatics analysis.
+
+The data is received in a table format, from a live google sheet.
+
+The regional reference centre processes the data and, for each sample, give an output of Pass / Fail.
+
+The goals of this exercise are to 1) find out which labs have the quickest turn around times 2) find out if some labs lag behind quality control
+
+\`\`\`{python}
+import pandas as pd
+\`\`\`
