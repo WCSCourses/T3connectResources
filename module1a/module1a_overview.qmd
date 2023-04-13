@@ -13,3 +13,5 @@ title: "Module 1A"
 [Elements of effective training and communication in genomics and bioinformatics](module1a_elements.qmd)
 
 [Training design](module1a_training_design.qmd)
+
+\-\-\--
