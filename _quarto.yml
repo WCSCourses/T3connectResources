@@ -11,7 +11,7 @@ website:
       - text: Resources
         menu:
           - resources.qmd
-          - module1a/module1A_overview.qmd
+          - module1a/module1a_overview.qmd
           - dataviz/dataviz.qmd
 
       - href: about.qmd
@@ -30,10 +30,10 @@ website:
     contents: 
       - section: "Module 1A"
         contents:
-          - module1a/module1A_introduction.qmd
-          - module1a/module1A_strategies.qmd
-          - module1a/module1A_elements.qmd
-          - module1a/module1A_training_design.qmd
+          - module1a/module1a_introduction.qmd
+          - module1a/module1a_strategies.qmd
+          - module1a/module1a_elements.qmd
+          - module1a/module1a_training_design.qmd
       - section: "Data viz"
         contents:
           - dataviz/dataviz.qmd
