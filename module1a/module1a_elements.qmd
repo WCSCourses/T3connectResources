@@ -1,0 +1,69 @@
+---
+title: "Elements of effective training"
+---
+
+#### Elements of effective training and communication in genomics and bioinformatics
+
+#### **Sharing knowledge/skills and information in genomics and bioinformatics**
+
+This section of the course presents sharing knowledge and information, both in general and specific to genomics.
+
+Within the context of this course we are mainly concentrating on teaching, training and mentoring as ways of conveying information to peers and colleagues. Many of the techniques and approaches to training are also relevant to other types of information sharing, such as communicating data or procedures to colleagues. 
+
+In the following activities, we will discuss effective communication in general, and then move on to visualising and communicating data and information. Learners will benefit from applying some of these techniques throughout the course, and beyond in their own training.
+
+#### **Answering and asking questions**
+
+{{< video https://www.youtube.com/embed/hMlaJpcRrkc width="50%">}}
+
+Further reading:
+
+[Best Practice Strategies for Effective Use of Questions as a Teaching Tool - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3776909/)
+
+[Let's enjoy the Q&A session](https://www.nig.ac.jp/jimu/soken/courses/OSC/contents/Q&A_e.pdf)
+
+#### **Group work and collaboration**
+
+Several studies have shown the advantages of collaborative learning. Group work is one of the most studied and implemented training techniques in the world.
+
+```{=html}
+<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/6b37b1ac-1932-4f91-8969-5ef0d3c20ba0?startpage=1&allowFullscreen=true" width="80%" height="300px"frameborder="0" allowfullscreen=""></iframe>
+```
+#### **Visualising and presenting data and information**
+
+With ever increasing amount and complexity of biological and genomic data and information, there is a growing need for visualising it in a clear and appealing manner and communicating it often to different audiences. To visualise data means to transform it into a picture reflecting the information, so that people can understand it. Data visualisation is also important for communicating research in publications.  
+
+Here are excerpts from an interview with Andy Kirk, specialist on data visualising and presenting. He suggests three main principles for data/information visualisation:
+
+1\. It should be **trustworthy**, so the audience consumes reliable and accurate information and knowledge.
+
+2\. It should be **accessible**. This means clarification, removing unnecessary obstacles to understanding. Accessible data presentation is about removing unnecessary confusion, things that people don't understand how to read. 
+
+3\. The third principle is about elegance and appearance. Can we make our work as **aesthetically appealing** and as attractive as possible?
+
+Some important aspect when presenting data and information to an audience: 
+
+**The audience** Think about the audience you are presenting to, about the receiver of your message. What are the characteristics of your audience: What do they need to know? What do they currently not know? What are their motivations for what they will do with this? Is it about direct decision making or actions? Or is it just an extra grain of knowledge about something? Are they in a situation that's under pressure? We should always try to put ourselves into the mindset of the recipient and think about their capabilities and how they will encounter our work.\
+
+The same data can be presented in many different ways to many different audiences. It's not always practical to be able to share it in many different ways. We have to decide: there'll be things that this person needs to know, and this person wants to know over here. We sometimes may have only one chance to present. We should think about the sense of prioritisation . If we try to present to the different audiences at the same time, there is a danger that potentially neither will receive the message. When we say: design for your audience, what it means is quite subtle, because it is about their characteristics, the capabilities, the confidence. **\
+**
+
+**Presenting research** We might be thinking that the only people who will be reading our work are experts with the exact same knowledge, and the exact same interest in a subject as us, while that's rarely the case. Even if we are sharing information with scientists, not everybody has the immediacy to understand what's being portrayed. We should start off simplifying things, removing redundancies. Removing the things that are overly technical and that can be explained in a more accessible fashion. 
+
+**What tools should be used to present data?** It is very easy for us to look around at all the new, innovative ideas, and think that there's no role for the bar chart or for the line chart anymore, because they're old charts. We still need those. There's a time and place for every chart. But crucially, **every chart answers a data question**. One of the key things that we always need to establish, before we get excited about the ways that we might present our data, is to determine what it is we are trying to answer through an individual chart panel, what is it that someone looking at this work will be able to get an answer to. So, questions are crucial, questions are everything. In fact, questions come before data, because we collect data in response to a question.
+
+**Selectivity** A lot of scientists feel that every single data point is important. It may be that every data point is valuable, but there has to be a hierarchy. There must be some things that are more relevant, more important than others, an audience may have to look at something, and to understand something. We shouldn't treat all data points equally. Some need to be suppressed, some need to be elevated. We can get a bit doubtful about the notion of editorial thinking, assuming that somehow it's massaging results, or hiding things. But it is about editing, it's about choosing what to include, and what to exclude.
+
+**Feedback and collaboration** The formats we can use to present can be different: is it a journal article, with very small size graphic? Is it for the mobile, or a tablet, on the move? Is it a huge display in a poster, where there is a presenter alongside the poster, and you can have a conversation about the piece. There's lots of dynamics about the situation that someone would encounter our presentation. Asking collaborator or teamwork for a feedback before presenting is really important. Because sometimes, we try and do everything ourselves, but even if we can just introduce a second person's mindset, ask a colleague, ask a critical friend about it, we can receive a different insight. Feedback is really something we reluctantly seek out, but we should. We should ask people to test things, run things past people. Sometimes, we ourselves as creators, get too close to our work, we lose sight of what it is we're trying to say. Collaborating with others, getting other people to check things and test things, at the very least, is something that is going to give us the best chance of having the biggest impact with what it is we present.
+
+**Further reading:**
+
+Here is [Andy's website](https://www.visualisingdata.com/resources/), presenting many examples and resources on data visualisation and presentation. 
+
+[**Tips**](https://www.visualisingdata.com/2016/03/little-visualisation-design/)for improving your visualisation design.   
+
+#### **Forum: Obstacles to learning/training genomics and bioinformatics**
+
+Learners are asked to create a new discussion topic mentioning a major challenge that affects their ability to train effectively in genomics or bioinformatics.
+
+Areas you might consider: availability of time and resources, trainer knowledge and skills, reaching the right target audience, lack of institutional support, etc

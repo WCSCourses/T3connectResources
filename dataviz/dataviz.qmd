@@ -20,7 +20,7 @@ This page provides resources designed and developed for the Data Viz workshop.
 
 ## **Introduction**
 
-[Presentation](presentations/Telling a story and making a point.pdf)
+[Presentation](presentations/Telling%20a%20story%20and%20making%20a%20point.pdf)
 
 **Principles of good story telling**
 

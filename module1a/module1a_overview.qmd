@@ -1,0 +1,15 @@
+---
+title: "Module 1A"
+---
+
+*This module was made available to participants through a Learning Management System, before the actual face-to-face course.*
+
+*The forums created an opportunity for learners to reflect and also to communicate their thoughts to instructors and to their peers.*
+
+[Introduction](module1a_introduction.qmd)
+
+[Strategies for training professionals](module1a_strategies.qmd)
+
+[Elements of effective training and communication in genomics and bioinformatics](module1a_elements.qmd)
+
+[Training design](module1a_training_design.qmd)

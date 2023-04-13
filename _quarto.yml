@@ -11,7 +11,9 @@ website:
       - text: Resources
         menu:
           - resources.qmd
-          - dataviz.qmd
+          - module1a/module1A_overview.qmd
+          - dataviz/dataviz.qmd
+
       - href: about.qmd
         text: About Us
   page-footer: 
@@ -25,8 +27,20 @@ website:
   sidebar:
     style: "docked"
     search: true
-    contents: auto
-    
+    contents: 
+      - section: "Module 1A"
+        contents:
+          - module1a/module1A_introduction.qmd
+          - module1a/module1A_strategies.qmd
+          - module1a/module1A_elements.qmd
+          - module1a/module1A_training_design.qmd
+      - section: "Data viz"
+        contents:
+          - dataviz/dataviz.qmd
+          - dataviz/dataviz_groupactivity.qmd
+          - dataviz/dataviz_Microreact_demo.qmd
+          - dataviz/dataviz_Microreact_activity.qmd
+          
 format:
   html:
     theme:
