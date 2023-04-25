@@ -1,0 +1,11 @@
+---
+title: "Flow of data"
+---
+
+{{< video https://www.youtube.com/embed/wTzb1oLQZEk width="50%">}}
+
+**Discussion forum: Consider the data flow pipeline from sample to decision-making presented in the previous step.**
+
+-   Discuss how this applies to your setting. 
+
+-   Discuss limitations in your institutions - e.g. infrastructure, processes, skills and capacity.

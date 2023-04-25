@@ -1,0 +1,7 @@
+---
+title: "Microbial genomics resources"
+---
+
+There are many tools and resources for use across the microbial genomics pipelines for whole genome sequencing data covering data quality control, species and contamination detection, genome assembly, in silico typing, genome annotation and alignment, phylogenetic and data visualisation.
+
+Click to download the document on [Microbial genomics resources](docs/Microbial%20genomics%20resources.xlsx) compiled by genomics specialists and contains a list of genomics data tools and pipelines for various species or applications.

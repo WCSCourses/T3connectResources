@@ -1,0 +1,13 @@
+---
+title: "Ethical issues"
+---
+
+The application of genomic sequencing in clinical microbiology for diagnostics, determining drug sensitivity, outbreak investigation, understanding pathogen evolution and AMR surveillance, requires close consideration of ethical, legal and social issues that may arise due to the sensitivity and potential use of data.
+
+The article [The ethics of sequencing infectious disease pathogens for clinical and public health](https://www.nature.com/articles/s41576-019-0109-3), highlights how phylogenetic analysis can provide evidence of transmission among populations and small groups, or identify individual sources of an outbreak, with potentially harmful consequences such as discrimination and stigma. In turn, this may impact on outbreak interventions and discourage voluntary testing.
+
+Other ethical issues encountered in pathogen genomics include consent, confidentiality, privacy and data sharing, feedback of incidental findings, ownership and trust. Risks should be explored and mitigatory measures applied to minimise harm. The authors of the article [Ethical challenges in pathogen sequencing: a systematic scoping review](https://wellcomeopenresearch.org/articles/5-119/v1) discuss emerging ethical challenges in genomic sequencing of pathogens and identify practical social science, professional and ethical solutions to consenting data collection, use and sharing. 
+
+The article [Ethical Challenges Associated with Pathogen and Host Genetics in Infectious Disease](https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2109697) discusses how genomic surveillance, metagenomics raise ethical questions for individuals and communities. In particular, viral diseases such as HIV/AIDS and SARS-Cov2/Covid-19 highlight the need to collectively assess ethical issues raised in the interactions between humans, animals and the environment.
+
+**Discussion forum**: Describe genomics-related ethical challenges which you face in your work environment or profession.

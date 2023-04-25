@@ -1,0 +1,9 @@
+---
+title: "Infrastructure"
+---
+
+During the COVID-19 pandemic, Black et al. (2020) discuss recommendations for a unified open data informatic ecosystem to support pathogen genomic analysis in public health agencies across geographical regions and income settings. They also describe a bioinformatics platform for data processing, analysis and visualisation. See Figure 1 in article -[Ten recommendations for supporting open pathogen genomic analysis in public health](https://www.nature.com/articles/s41591-020-0935-z).
+
+The AusTrakka platform developed in Australia streamlines genomic and epidemiological data sharing and enables fine-grained access controls of data enabling public health decision-making. See Figure 1 in article - [AusTrakka: Fast-tracking nationalized genomics surveillance in response to the COVID-19 pandemic](https://www.nature.com/articles/s41467-022-28529-9).
+
+**Discussion forum:** How is the data infrastructure set up in your work environments? What are the pros and cons of centralised vs localised platforms for integrating genomic information and data sharing?

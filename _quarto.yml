@@ -12,6 +12,7 @@ website:
         menu:
           - resources.qmd
           - module1a/module1a_overview.qmd
+          - module1b/module1b_overview.qmd
           - dataviz/dataviz.qmd
 
       - href: about.qmd
@@ -34,6 +35,14 @@ website:
           - module1a/module1a_strategies.qmd
           - module1a/module1a_elements.qmd
           - module1a/module1a_training_design.qmd
+      - section: "Module 1B"
+        contents:
+          - module1b/module1b_introduction.qmd
+          - module1b/module1b_ethical_issues.qmd
+          - module1b/module1b_flow_of_data.qmd
+          - module1b/module1b_implementing_genomics_in_healthcare.qmd
+          - module1b/module1b_infrastructure.qmd
+          - module1b/module1b_microbial_genomics_resources.qmd
       - section: "Data viz"
         contents:
           - dataviz/dataviz.qmd

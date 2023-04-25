@@ -84,7 +84,7 @@ Combining Knowles' and Vandenberg's assumptions, this [Table](Adult_learning_pri
 
 Here we will present how the adult learning principles can be translated into more concrete teaching/training strategies, so that as trainers we can use methods and tools to better accommodate the learning process of our adult learners, as part of the facilitation process. 
 
-Click on the fullscreen icon to increase the resolution of the interactive image below and then click on the plus icon to open sections with more information. (The table containing this information can be downloaded [here](Adult learning principles in practice.pdf).)
+Click on the fullscreen icon to increase the resolution of the interactive image below and then click on the plus icon to open sections with more information. (The table containing this information can be downloaded [here](Adult%20learning%20principles%20in%20practice.pdf).)
 
 ![](img/adult_learners.png)
 

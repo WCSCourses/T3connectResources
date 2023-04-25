@@ -1,0 +1,21 @@
+---
+title: "Module 1B"
+---
+
+Module leads: **Charlene Rodrigues** and **Alice Matimba**
+
+*This module was made available to participants through a Learning Management System, before the actual face-to-face course.*
+
+*The forums created an opportunity for learners to reflect and also to communicate their thoughts to instructors and to their peers.*
+
+[Introduction](module1b_introduction.qmd)
+
+[Ethical Issues in pathogen genomics](module1b_ethical_issues.qmd)
+
+[Flow of data from sample to decision making](module1b_flow_of_data.qmd)
+
+[Implementing genomics in healthcare](module1b_implementing_genomics_in_healthcare.qmd)
+
+[Infrastructure for pathogen genomics data](module1b_infrastructure.qmd)
+
+[Microbial genomics resources](module1b_microbial_genomics_resources.qmd)

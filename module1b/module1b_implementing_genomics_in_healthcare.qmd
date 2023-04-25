@@ -1,0 +1,13 @@
+---
+title: "Implementing genomics in healthcare"
+---
+
+Microbial genome sequencing is being integrated into routine clinical microbiology and public health. There are several considerations in effectively implementing genomics in healthcare including workflow management, data analysis, reporting, evaluation and how the data can be used for decision-making. Below is a showcase of how pathogen genomics is being implemented in clinical settings and scaled up in public health organisations.
+
+The Microbiology society have published [a collection of case studies](https://www.microbiologyresearch.org/content/implementation-of-genomics-in-clinical-and-public-health-microbiology) on how microbial genomics works in the \"real world\" clinical and health laboratory settings, and testing approaches to improving the integration of genomics into routine microbiological. 
+
+The PHG foundation outlines the importance of translating pathogen genomics into policy and practice in the UK and provide recommendations on implementation. In the article, [Pathogen Genomics Into Practice](https://www.phgfoundation.org/report/pathogen-genomics-into-practice), Sections 13-14 describes configuration of pathogen genomic services.
+
+Public Health England have also reported case studies on implementing and delivery of WGS for pathogen surveillance. Explore the article: [Implementing pathogen genomics](#0).
+
+**Discussion forum**: Briefly describe an activity where you have been involved in implementing WGS for specific microbial application, the challenges and the outcomes.
