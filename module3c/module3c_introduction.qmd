@@ -12,7 +12,7 @@ Module 3A reviewed the fundamentals of specimen collection, a process during whi
 
 Module 3B reviewed how the quality of the material to be sequenced, and that of the sequence data itself may alter how data can be interpreted. Bioinformaticians often use different analytic tools to extract useful data from the genomes, such as presence of markers of risk (e.g., AMR and virulence genes), genotyping information (e.g., MLST, cgMLST, and other species-specific typing), and phylogenetic relationships (trees), as well as quality metrics. Module 1B summarised some of the analytic tools and resources commonly used for data analysis. However, these outputs are rarely incorporated into the same database as epidemiological and laboratory data. 
 
-The genomic epidemiologist\'s job often starts by combining data from diverse sources that might not be complete or standardised to facilitate the identification of relevant patterns for meaningful interpretation and intervention. The data and any patterns often need to be digested and summarised for decision makers. To this purpose, the Centre for Genomic Pathogen Surveillance develops free web applications for integration and visualisation of surveillance (and other) data, called [data-flo](https://data-flo.io/) and [Microreact](http://www.microreact.org/). 
+The genomic epidemiologist's job often starts by combining data from diverse sources that might not be complete or standardised to facilitate the identification of relevant patterns for meaningful interpretation and intervention. The data and any patterns often need to be digested and summarised for decision makers. To this purpose, the Centre for Genomic Pathogen Surveillance develops free web applications for integration and visualisation of surveillance (and other) data, called [data-flo](https://data-flo.io/) and [Microreact](http://www.microreact.org/). 
 
 The aim of this module is to highlight the role of different analytics and sources of data in pathogen surveillance, and the value of streamlined data integration for real-time decision making, while also introducing resources that can facilitate the inclusion of this topic in teaching curricula.\
 
@@ -32,4 +32,4 @@ At the end of this module participants will be able to:\
 
 6.  Assess knowledge and skills related to data analysis and integration, such as through group discussion.
 
-[**Presentation**](docs/Data analysis and integration.pdf) delivered by the instructor (Silvia Argimón) during the session.
+[**Presentation**](docs/Data%20analysis%20and%20integration.pdf) delivered by the instructor (Silvia Argimón) during the session.

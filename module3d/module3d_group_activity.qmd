@@ -1,0 +1,17 @@
+---
+title: "Group acticity"
+---
+
+**Working with the rest members of your group, and for the teaching topic your group has been assigned to, design a session on data interpretation and applications. You can consider the following points:**
+
+-   Based on the list of teaching sub-topics of your assigned topic ([listed in Table 1](docs/Strategies%20to%20deliver%20topics%20and%20sub-topics%20of%20pathogen%20genomics%20content.pdf)), and based on your professional experience in pathogen genomics, can you propose other content sub-topics that could be covered too?
+
+-   Can you identify the key theoretical knowledge that should be taught first to provide learners with the relevant grounding and background of your topic? These may include biological, microbiological, genetics, laboratory or sequencing technical aspects.
+
+-   Based on the examples of teaching strategies listed in [Table 2](docs/Strategies%20to%20deliver%20topics%20and%20sub-topics%20of%20pathogen%20genomics%20content.pdf) for your topic, and based on your professional experience, can you think of other ways or examples of designing and delivering your teaching content?
+
+-   Based on the assessment activities and examples of case-studies listed in [Table 2](docs/Strategies%20to%20deliver%20topics%20and%20sub-topics%20of%20pathogen%20genomics%20content.pdf), the content presented in the \'Content and Resources\' document, and on your professional experience, can you think of other assessment activities and case-studies that could be used to design, deliver and assess your content topic?
+
+-   Based on the characteristics of your topic, and considering different target audiences, would the theoretical knowledge, teaching strategies, case-studies and/or assessment activities need to be designed and delivered differently based on the target audience?
+
+Each group of participants will need to present their discussion results to the rest of the class.

@@ -1,0 +1,25 @@
+---
+title: "Resources"
+---
+
+In this section you will find a list to resources on implementing pathogen sequencing, from major public health agencies and foundations, which can be used to design appropriate content, including real-work case studies, for pathogen genomics courses.
+
+\- Global Microbial Identifier: <https://www.globalmicrobialidentifier.org/about-gmi>
+
+\- WHO report on \"The use of next-generation sequencing technologies for the detection of mutations associated with drug resistance in Mycobacterium tuberculosis complex: technical guide\" (<https://apps.who.int/iris/handle/10665/274443>)  
+
+\- ISO on Microbiology of the food chain --- Whole genome sequencing for typing and genomic characterization of bacteria --- General requirements and guidance (<https://www.iso.org/standard/75509.html>)
+
+\- GLASS 2020 report on Whole-genome sequencing for surveillance of antimicrobial resistance (<https://apps.who.int/iris/bitstream/handle/10665/334354/9789240011007-eng.pdf>)
+
+\-  Use of Whole Genome Sequencing by the Federal Interagency Collaboration for Genomics for Food and Feed Safety in the United States (<https://www.fda.gov/food/science-research-food/whole-genome-sequencing-wgs-program>)
+
+\- FIND report on Sequencing for antimicrobial resistance surveillance (<https://www.finddx.org/wp-content/uploads/2022/04/20220211_Sequencing-for-AMR-surveillance.pdf>)
+
+\- PHG foundation report Pathogen Genomics Into Practice (<https://www.phgfoundation.org/report/pathogen-genomics-into-practice>)
+
+\- PHE Expert opinion on whole genome sequencing for public health surveillance  (<https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/731057/implementing_pathogen_genomics_a_case_study.pdf>)
+
+\- UKHSA guidance on \"*Mycobacterium tuberculosis* whole-genome sequencing and cluster investigation handbook\" (<https://www.gov.uk/government/publications/tb-strain-typing-and-cluster-investigation-handbook/mycobacterium-tuberculosis-whole-genome-sequencing-and-cluster-investigation-handbook>)
+
+\- US CDC \"Guide to the Application of Genotyping to Tuberculosis Prevention and Control\" (<https://www.cdc.gov/tb/programs/genotyping/manual.htm>)

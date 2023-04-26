@@ -1,0 +1,29 @@
+---
+title: "Introduction"
+---
+
+## **Introduction to module 3D**
+
+This module is focused on interpreting the data produced at different stages of the pathogen genomics pipeline, from quality control of sequence data up to the interpretation of downstream reports (e.g. outbreak investigations, genotypic AMR detection, etc.), with a particular focus on specific applications, and limitations of current approaches. Plenty of real-world examples and case studies are provided to introduce the multiple teaching topics and sub-topics, provide strategies to deliver learning outcomes, and extensive resources to design teaching content.
+
+# **Learning Outcomes**
+
+At the end of this module participants will be able to:
+
+Identify a list of teaching sub-topics within a particular teaching area in pathogen genomics (e.g. genomics QC, speciation and strain typing, phylogenetic tree interpretation, etc.) with an emphasis on interpretation of the results.
+
+Identify the key theoretical knowledge that should be taught first to provide learners with the relevant grounding and background needed to interpret pathogen genomics results. This may include biological, microbiological, genetics, laboratory or sequencing technical aspects.
+
+● Design a variety of teaching strategies based on the target audience and specific sub-topics.
+
+● Identify the variety of available approaches, resources and bioinformatic tools commonly employed within various learning sub-topics, with an emphasis on interpreting different information outputs.
+
+● Identify relevant case-studies, datasets and strains/genomes that can be used to develop teaching materials, and to assess learning outcomes.
+
+● Design relevant practical activities (e.g. bioinformatics practicals) for training in specific sub-topics.
+
+**Presentation: [How to train - data interpretation and application](docs/Presentation How to train - data interpretation and applications.pdf)**
+
+**Presentation: [Strategies to deliver topics and sub-topics of pathogen genomics content](docs/Strategies to deliver topics and sub-topics of pathogen genomics content.pdf)**
+
+**Presentation: [Examples of strategies](docs/Examples of strategies.pdf)**

@@ -1,0 +1,13 @@
+---
+title: "Module 3D"
+---
+
+**Module lead: Francesc Coll**
+
+This module was made available to participants through a Learning Management System, during the actual face-to-face course.
+
+[Introduction](module3d_introduction.qmd)
+
+[Group activity](module3d_group_activity.qmd)
+
+[Resources](module3d_resources.qmd)
