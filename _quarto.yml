@@ -8,15 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: Resources
+      - text: Training materials
         menu:
           - resources.qmd
           - module1a/module1a_overview.qmd
           - module1b/module1b_overview.qmd
+          - module1b/module3c_overview.qmd
           - dataviz/dataviz.qmd
-
-      - href: about.qmd
-        text: About Us
+      - href: curriculum.qmd
+        text: Curriculum
   page-footer: 
     left: "This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement" 
     right: 
@@ -43,6 +43,19 @@ website:
           - module1b/module1b_implementing_genomics_in_healthcare.qmd
           - module1b/module1b_infrastructure.qmd
           - module1b/module1b_microbial_genomics_resources.qmd
+      - section: "Module 3C"
+        contents:
+          - module3c/module3c_introduction.qmd
+          - module3c/module3c_activities_background.qmd
+          - module3c/module3c_activity1a.qmd
+          - module3c/module3c_activity1b.qmd
+          - module3c/module3c_activity1c.qmd
+          - module3c/module3c_activity1d.qmd
+          - module3c/module3c_activity1e.qmd
+          - module3c/module3c_activity2.qmd
+          - module3c/module3c_activity3.qmd
+          - module3c/module3c_bonus.qmd
+          - module3c/module3c_resources.qmd
       - section: "Data viz"
         contents:
           - dataviz/dataviz.qmd

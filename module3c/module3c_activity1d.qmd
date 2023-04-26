@@ -1,0 +1,15 @@
+---
+title: "Module 1D"
+---
+
+## **Integrating tabular data with data-flo**
+
+The use of different sample identifiers along the genomic surveillance workflow is a common challenge. After requesting a key to link the epi and lab data to the bioinformatics results ([key.csv](docs/key.csv)), the [Epi_data.tsv](docs/Epi_data.tsv), [Lab_data.xlsx](docs/Lab_data.xlsx), and [Bix_data.csv](docs/Bix_data.csv)spreadsheets were merged using [data-flo](https://data-flo.io/) and the workflow below. Data-flo is a system for customised integration and manipulation of diverse data via a simple drag and drop interface. Data-flo provides a visual method to design a reusable pipeline to integrate, clean, and manipulate data in a multitude of ways, eliminating the need for continuous manual intervention (e.g., coding, formatting, spreadsheet formulas, manual copy-pasting).
+
+![*Workflow to anonymise, harmonise and join epi, lab, and bioinformatics spreadsheets (<https://data-flo.io/run?gpeeL1gUjtFmmtUe9ShSYP>).*](docs/figure_dataflo.png)
+
+Note: You may continue with the exercise and use the output provided below to complete the activity. However, if you would like to try to run this workflow to get the output yourself, click on the workflow link (<https://data-flo.io/run?gpeeL1gUjtFmmtUe9ShSYP>) to open it on a new tab, and then click on the button "Run". 
+
+Explore the output of the above data-flo workflow by opening the file [Epi-Lab-Bix.csv](docs/Epi-Lab-Bix.csv).
+
+Q5. Does this large spreadsheet allow you to quickly identify patterns that would help you determine if there is an outbreak of CRKp??

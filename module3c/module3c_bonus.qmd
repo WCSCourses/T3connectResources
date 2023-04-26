@@ -1,0 +1,13 @@
+---
+title: "Bonus activity"
+---
+
+Only if you have completed Activities 1-3 and you have spare time until the wrap-up session.
+
+![*Comparison of Patient Sex before and after harmonisation on a Microreact custom View <https://microreact.org/project/4mfhQ4q53eHK1ECUihbiGM-case-study-crkp#krr3-patient-sex>*](docs/bonus.png)
+
+The Epi, Lab, and Bix data comprised 23 isolates, but the tree only contains 22 leaves.
+
+BQ1. What do you think happened to the genome from Sample/Isolate ID KPN002 and why? Tip: Look at genome quality data.
+
+BQ2. How did the harmonisation of the column Patient Sex with data-flo impact the Microreact Viz? Click on Views on the right, then click on the view called Patient Sex. "Patient Sex" displays the original data and "Sex" displays the data harmonised by data-flo. Tip: Open the Legend drawer. How many different sex options are there in each metadata block?

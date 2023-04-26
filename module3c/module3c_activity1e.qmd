@@ -1,0 +1,15 @@
+---
+title: "Module 1E"
+---
+
+## **Phylogenetic trees**
+
+The file [tree.nwk](docs/tree.nwk) is a phylogenetic tree describing the genetic relationships between isolates in Newick format (<https://evolution.genetics.washington.edu/phylip/newick_doc.html>). Each sequenced sample sits on a tree "leaf" (Figure 3), and samples joined by a tree "node" are assumed to descend from a common ancestor. Tips and nodes are connected by tree "branches", which length is proportional to the amount of genetic variation between the connections. When no genetic variation is detected between two or more samples the branch length is zero. 
+
+Open the file [tree.nwk](docs/tree.nwk) with FigTree and examine the tree. An image of the tree is also provided in case FigTree is not available on your computer.
+
+![*Phylogenetic tree*](docs/phylogenetic_tree.png)
+
+Q6. Looking at the tree only, can you find any patterns in the tree structure that would help you determine if there is an outbreak of CRKp? If so, how many isolates/genomes are in the putative outbreak? 
+
+Q7. Looking at the tree only, could you implement enhanced cleaning in specific wards to control the outbreak?

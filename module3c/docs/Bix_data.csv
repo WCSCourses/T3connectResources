@@ -1,0 +1,24 @@
+﻿Lane,Total Raw Reads,Total Raw Bases,Assembly Length,No Contigs,N50,No genes,MLST_ST,MLST_profile,blaNDM-1,blaCTX-M-15,blaOXA-1,blaTEM-1,aac_3_IId,armA,qnrB1,dfrA12,dfrA14,dfrA1,sul1,sul2,ompK36_A217S,ompK36_N218H
+20486_1#1,1311050,196657500,5831268,116,347544,5585,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+20486_1#2,4317800,647670000,5696707,71,346793,5463,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,no,yes,yes
+20486_1#4,1416344,212451600,5825781,127,329054,5562,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+20486_1#6,1545794,231869100,5724170,96,346884,5479,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+20486_1#7,690866,103629900,5851831,391,48512,6035,undetermined,1_6_1_1_1_?_novel,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+21565_1#1,2439332,365899800,5382452,31,1006359,5150,251,2_35_2_35_56_4_19,no,yes,yes,yes,yes,no,yes,no,yes,no,no,yes,no,no
+21565_1#10,3137888,470683200,5679938,73,346825,5452,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+21565_1#12,2437836,365675400,5702751,59,347101,5488,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+21565_1#6,1994646,299196900,5437708,35,581427,5165,323,2_1_1_1_9_93,no,yes,yes,yes,yes,no,yes,no,yes,no,no,yes,no,no
+21565_1#7,2223322,333498300,5384549,36,766243,5146,251,2_35_2_35_56_4_19,no,yes,yes,yes,yes,no,yes,no,yes,no,no,yes,no,no
+21565_1#9,2528944,379341600,5384973,30,507708,5145,251,2_35_2_35_56_4_19,no,yes,yes,yes,yes,no,yes,no,yes,no,no,yes,no,no
+21897_1#1,1709948,256492200,5701826,69,206771,5481,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+21897_1#3,1690260,253539000,5699469,67,345726,5478,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+21897_1#4,1815306,272295900,5738345,63,347047,5523,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+21897_1#5,1703966,255594900,5699184,61,295095,5475,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+21897_1#6,1698682,254802300,5701603,69,347017,5477,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+21897_1#7,1497772,224665800,5738065,63,347008,5522,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+22984_8#294,1624970,245370470,5481677,51,357709,5237,307,4_1_2_52_1_1_7,no,yes,no,yes,yes,no,no,no,yes,no,no,yes,no,no
+22984_8#295,1557064,235116664,5482136,63,236845,5236,307,4_1_2_52_1_1_7,no,yes,no,yes,yes,no,no,no,yes,no,no,yes,no,no
+22984_8#337,1644672,248345472,5823340,131,206741,5582,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+22984_8#343,1576086,237988986,5698423,83,238230,5458,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+22984_8#346,1607682,242759982,5687467,67,294874,5461,78,1_6_1_1_1_9_1,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes
+22984_8#354,1690292,255234092,5461689,62,205154,5225,307,4_1_2_52_1_1_7,no,yes,no,yes,yes,no,no,no,yes,no,no,yes,yes,yes

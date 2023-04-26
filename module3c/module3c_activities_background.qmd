@@ -1,0 +1,17 @@
+---
+title: "Activities background"
+---
+
+## **Klebsiella pneumoniae in the nosocomial setting**
+
+Note: This case-study is based on real sequence data from this [preprint by Roberts](https://osf.io/x8q73)et al. but it has been modified for the purposes of teaching this course. 
+
+Klebsiella pneumoniae (Kp) are common causes of both community-acquired and hospital-acquired infections. Infections with carbapenem-resistant Kp (CRKp) are associated with higher mortality rates than those with carbapenem-susceptible organisms and have become more common in the United Kingdom, thus posing a significant clinical and public health risk. Resistance to carbapenems can arise by high-level production of an AmpC cephalosporinase or an extended-spectrum beta-lactamase (e.g. CTX-M) combined with decreased outer membrane permeability due to mutational loss or alteration of porins (OmpK). 
+
+Another mechanism is the production of a β-lactamase that is capable of hydrolysing carbapenems (carbapenemase). The production of carbapenemase enzymes is typically acquired via mobile genetic elements like plasmids, which frequently carry multiple genes conferring resistance to β-lactams and to other antimicrobial classes, and that can be spread horizontally amongst different strains and species.
+
+Several carbapenemases have been described up to date and they are classified together with beta-lactamases by both their functional and structural profiles. Metallo-β-lactamases (MBLs), such as NDM (New Delhi MBL) are characterised by the requirement for zinc ions in their active site and have broad-spectrum β-lactamase activity, including carbapenemase activity, but are not active against monobactams. 
+
+You are the infection control specialist in a very large UK teaching hospital with an in-house sequencing facility. On July 22th one patient in the ICU was found to be infected with CRKp on a urine sample. The organism was identified as Klebsiella pneumoniae which was resistant to all antibiotics initially tested i.e. amoxicillin/clavulanate, piperacillin/tazobactam, cefotaxime, ceftazidime, cefepime, aztreonam, ertapenem, meropenem, amikacin, gentamicin, tobramycin, ciprofloxacin, and trimethoprim. Subsequent testing identified that the isolate was susceptible to colistin. The patient was isolated. 
+
+A second CRKp case was detected on August 9th. This was also identified as K. pneumoniae, with an identical antibiogram. The infection control team commenced an outbreak investigation that involved screening of all patients in contact with the index cases, twice weekly screening of ICU patients, and sampling of the hospital environment. Over the next two months additional patients were found to be infected or colonised with K. pneumoniae with a similar antibiogram. These and other K. pneumoniae isolated during the same period were all subject to WGS. Based on evidence from the epidemiological, laboratory and genomic data you have to decide whether there is an outbreak of CRKp and which ward(s) need to undergo enhanced cleaning. Your IPC budget has been slashed and you need to choose carefully.

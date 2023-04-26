@@ -1,0 +1,11 @@
+---
+title: "Activity 1A"
+---
+
+## **Explore the epidemiological data**
+
+During sample collection, linked epidemiological data was recorded. Open the file [Epi_data.tsv](docs/Epi_data.tsv) with Excel and explore the data (note: patient names are made-up).
+
+Q1. Can you identify data that is standardised/harmonised vs data that is not? Tip: Compare \"Isolation Date\" vs \"Patient Sex\". Would a computer interpret \"Patient Sex\" in the same way as a human would do?
+
+Q2. Looking at the epi data only, is the key data available that will enable you to decide which wards will undergo enhanced cleaning if an outbreak is detected? 

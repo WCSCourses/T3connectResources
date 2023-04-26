@@ -1,0 +1,9 @@
+---
+title: "Module 1C"
+---
+
+## **Explore the bioinformatics data**
+
+The genomes of these isolates were sequenced and analysed in record time, and the bioinformatician has just sent you two files, [Bix_data.csv](docs/Bix_data.csv) and [tree.nwk](docs/tree.nwk). The file [Bix_data.csv](docs/Bix_data.csv) includes genome quality, genotyping (MLST), and identification of AMR genes and mutations. The column \"Lane\" is the WGS identifier. Open the file [Bix_data.csv](docs/Bix_data.csv) with Excel and explore the results. 
+
+Q4. Can you link the bioinformatics results to the epi data and laboratory results?

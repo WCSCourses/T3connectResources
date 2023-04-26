@@ -1,0 +1,31 @@
+---
+title: "Module 3C"
+---
+
+Module lead: Silvia Argimon
+
+This module was made available to participants through a Learning Management System, during the actual face-to-face course.
+
+The polls created an opportunity for learners to reflect and also to communicate their thoughts to instructors and to their peers.
+
+[Introduction: Data analysis and integration](module3c_introduction.qmd)
+
+[Activities background: Klebsiella pneumoniae in the nosocomial setting](module3c_activities_background.qmd)
+
+[Activity 1A: Explore the epidemiological data](module3c_activity1a.qmd) (5 min)
+
+[Activity 1B: Explore the laboratory data](module3c_activity1b.qmd) (10 min)
+
+[Activity 1C: Explore the bioinformatics data](module3c_activity1c.qmd) (5 min)
+
+[Activity 1D: Integrating tabular data with data-flo](module3c_activity1d.qmd) (10 min)
+
+[Activity 1E: Phylogenetic trees](module3c_activity1e.qmd) (10 min)
+
+[Activity 2. Integration of data spreadsheets and the tree into an interactive visualisation with data-flo and Microreact](module3c_activity2.qmd) (15 min)
+
+[Activity 3. Reflection](module3c_activity3.qmd) (15 min)
+
+[Bonus activity](module3c_bonus.qmd)
+
+[Resources](module3c_resources.qmd)

@@ -1,0 +1,11 @@
+---
+title: "Activity 3"
+---
+
+## **Reflection**
+
+Within your table group discuss the value of different data sources and of data integration for outbreak investigation and intervention. Did you get to the same intervention strategy in Q3 and Q16? If not, what made the difference? 
+
+Which domain concepts covered in this session (or similar ones) would you foresee having to teach in the future? How would you do it? Note: See presentation slides 2 and 11 for reference to domain concepts. 
+
+Can you think of an alternative method to teach data integration for decision making?

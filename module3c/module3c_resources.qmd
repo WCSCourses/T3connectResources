@@ -1,0 +1,25 @@
+---
+title: "Resources"
+---
+
+## **Resources**
+
+Data-flo Documentation: <https://docs.data-flo.io/introduction/readme>
+
+If you found data-flo useful and would like to continue using it, start by creating an account <https://data-flo.io/signin>. There are a few public workflows with useful transformations such as left join two CSVs (<https://data-flo.io/run?bzYR3DtxRJsBty5ezb5LoJ>) or the Geocoder (<https://data-flo.io/run?kvpsi3T8V>) that you can try.
+
+You can also copy the workflows from Module 3C to your account (data-flo will assign a new id to the workflow in your account) and edit them to tailor them to your needs.
+
+A similar workflow to the one used on this course can be found in the documentation <https://docs.data-flo.io/tutorials/prep-outbreak-data-for-microreact>. In this workflow, one of the inputs is a SNP matrix. 
+
+Data-flo also allows you to import data from a Google Spreadsheet (<https://docs.data-flo.io/using-data-flo/specific-adaptors/google-spreadsheet>) or from a database (<https://docs.data-flo.io/tutorials/common-use-cases-solved/connect-directly-to-a-database>) (as opposed to downloading data from the spreadsheet/database into a file). 
+
+Microreact documentation: <https://docs.microreact.org/>
+
+The showcase (<https://microreact.org/>) page contains several examples. You can open them, download the data and trees and create your own projects to get more familiar with Microreact. 
+
+To be able to edit and manage projects, please create your own Microreact Account <https://microreact.org/api/auth/signin>. 
+
+You can customise the colours of your visualisations by assigning colours to the different variables before you create the Microreact project and/or after the project was created <https://docs.microreact.org/instructions/labels-colours-and-shapes>.
+
+Everyone with access to a Microreact project has access to the data the project uses. Privacy and permissions can be configured to change who can access the project and its data <https://docs.microreact.org/instructions/access-control-and-project-sharing>.\

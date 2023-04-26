@@ -1,0 +1,9 @@
+---
+title: "Activity 1B"
+---
+
+## **Explore the laboratory data**
+
+The microbiology laboratory now sent you their results from culture and antimicrobial susceptibility testing. Two different carbapenem antibiotics were tested, ertapenem and meropenem. Open the file [Epi_Lab.xlsx](docs/Epi_Lab.xlsx) and explore the results. 
+
+Q3. Looking at the epi data and lab results combined, can you find any patterns that would suggest that there is an outbreak of CRKp? If so, how many wards would have to undergo enhanced cleaning?
