@@ -13,7 +13,7 @@ website:
           - resources.qmd
           - module1a/module1a_overview.qmd
           - module1b/module1b_overview.qmd
-          - module1b/module3c_overview.qmd
+          - module3c/module3c_overview.qmd
           - dataviz/dataviz.qmd
       - href: curriculum.qmd
         text: Curriculum
