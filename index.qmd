@@ -1,5 +1,5 @@
 ---
-title: "T3Connect Resources"
+title: "T3Connect – Data Science and Genomic Pathogen Surveillance Training Programme"
 ---
 
 This page is a repository for training resources designed and developed for the T3Connect courses.
@@ -17,3 +17,7 @@ This FREE course provides participants with methods and techniques for training 
 The course is aimed at researchers, healthcare and training professionals who are involved in any aspect of genomics or data science, and who are interested in building their capabilities to effectively share their knowledge and skills with others focused on pathogen genomic analysis, application and interpretation in management of infectious disease. This includes clinical, biomedical, and public health scientists, epidemiologists, bioinformaticians.
 
 Participants may also be involved in genomics technologies and computational biology training programmes, and interested in developing training resources for potential application of pathogen genomics in healthcare and public health.
+
+Link to [Curriculum](curriculum.qmd)
+
+Link to [Training materials](resources.qmd)

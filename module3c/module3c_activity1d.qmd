@@ -1,5 +1,5 @@
 ---
-title: "Module 1D"
+title: "Activity 1D"
 ---
 
 ## **Integrating tabular data with data-flo**

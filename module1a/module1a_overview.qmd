@@ -16,4 +16,4 @@ Module lead: **Dusanka Nikolic**
 
 [Training design](module1a_training_design.qmd)
 
-\-\-\--
+[References and Acknowledgements](module1a_references.qmd)

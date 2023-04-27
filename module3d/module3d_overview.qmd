@@ -8,6 +8,14 @@ This module was made available to participants through a Learning Management Sys
 
 [Introduction](module3d_introduction.qmd)
 
+**Presentation: [How to train - data interpretation and application](docs/Presentation%20How%20to%20train%20-%20data%20interpretation%20and%20applications.pdf)**
+
+**Presentation: [Strategies to deliver topics and sub-topics of pathogen genomics content](docs/Strategies%20to%20deliver%20topics%20and%20sub-topics%20of%20pathogen%20genomics%20content.pdf)**
+
+**Presentation: [Examples of strategies](docs/Examples%20of%20strategies.pdf)**
+
 [Group activity](module3d_group_activity.qmd)
 
 [Resources](module3d_resources.qmd)
+
+[References and Acknowledgements](module3d_references.qmd)

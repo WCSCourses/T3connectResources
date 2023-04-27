@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: curriculum.qmd
+        text: Curriculum
       - text: Training materials
         menu:
           - resources.qmd
@@ -16,8 +18,7 @@ website:
           - module3c/module3c_overview.qmd
           - module3d/module3d_overview.qmd
           - dataviz/dataviz.qmd
-      - href: curriculum.qmd
-        text: Curriculum
+
   page-footer: 
     left: "This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement" 
     right: 
@@ -37,6 +38,7 @@ website:
           - module1a/module1a_strategies.qmd
           - module1a/module1a_elements.qmd
           - module1a/module1a_training_design.qmd
+          - module1a/module1a_references.qmd
       - section: "Module 1B"
         contents:
           - module1b/module1b_introduction.qmd
@@ -45,9 +47,11 @@ website:
           - module1b/module1b_implementing_genomics_in_healthcare.qmd
           - module1b/module1b_infrastructure.qmd
           - module1b/module1b_microbial_genomics_resources.qmd
+          - module1b/module1b_references.qmd
       - section: "Module 3C"
         contents:
           - module3c/module3c_introduction.qmd
+          - module3c/module3c_presentation.qmd
           - module3c/module3c_activities_background.qmd
           - module3c/module3c_activity1a.qmd
           - module3c/module3c_activity1b.qmd
@@ -58,12 +62,17 @@ website:
           - module3c/module3c_activity3.qmd
           - module3c/module3c_bonus.qmd
           - module3c/module3c_resources.qmd
+          - module3c/module3c_references.qmd
       - section: "Module 3D"
         contents:
           - module3d/module3d_introduction.qmd
+          - module3d/module3d_presentation_how_to_train.qmd
+          - module3d/module3d_presentation_strategies.qmd
+          - module3d/module3d_presentation_examples.qmd
           - module3d/module3d_group_activity.qmd
           - module3d/module3d_resources.qmd
-      - section: "Data viz"
+          - module3d/module3d_references.qmd
+      - section: "Workshop on Data Viz"
         contents:
           - dataviz/dataviz.qmd
           - dataviz/dataviz_groupactivity.qmd

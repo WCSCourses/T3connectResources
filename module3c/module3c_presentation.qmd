@@ -1,0 +1,5 @@
+---
+title: "Presentation"
+---
+
+[**Presentation**](docs/Data%20analysis%20and%20integration.pdf) delivered by the instructor (Silvia Argimón) during the session.

@@ -19,3 +19,5 @@ Module leads: **Charlene Rodrigues** and **Alice Matimba**
 [Infrastructure for pathogen genomics data](module1b_infrastructure.qmd)
 
 [Microbial genomics resources](module1b_microbial_genomics_resources.qmd)
+
+[References and Acknowledgements](module1b_references.qmd)

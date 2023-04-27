@@ -1,5 +1,5 @@
 ---
-title: "Module 1E"
+title: "Activity 1E"
 ---
 
 ## **Phylogenetic trees**

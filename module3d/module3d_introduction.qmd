@@ -21,9 +21,3 @@ Identify the key theoretical knowledge that should be taught first to provide le
 ● Identify relevant case-studies, datasets and strains/genomes that can be used to develop teaching materials, and to assess learning outcomes.
 
 ● Design relevant practical activities (e.g. bioinformatics practicals) for training in specific sub-topics.
-
-**Presentation: [How to train - data interpretation and application](docs/Presentation How to train - data interpretation and applications.pdf)**
-
-**Presentation: [Strategies to deliver topics and sub-topics of pathogen genomics content](docs/Strategies to deliver topics and sub-topics of pathogen genomics content.pdf)**
-
-**Presentation: [Examples of strategies](docs/Examples of strategies.pdf)**

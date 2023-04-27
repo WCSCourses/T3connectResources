@@ -1,0 +1,5 @@
+---
+title: "How to train"
+---
+
+**Presentation: [How to train - data interpretation and application](docs/Presentation%20How%20to%20train%20-%20data%20interpretation%20and%20applications.pdf)**

@@ -1,5 +1,5 @@
 ---
-title: "Data Viz workshop"
+title: "Workshop on Data Viz"
 ---
 
 This page provides resources designed and developed for the Data Viz workshop.
@@ -46,10 +46,10 @@ This page provides resources designed and developed for the Data Viz workshop.
 
 -   [when it makes more sense to directly label the bars with their actual values](https://www.visualisingdata.com/2019/12/the-little-of-visualisation-design-part-69/)
 
-## [**Group Activity: Real scenario from a public health lab in the USA: Can we identify ways to reduce poor sequencing outcomes?**](dataviz_groupactivity.qmd)
+[**Group Activity: Real scenario from a public health lab in the USA: Can we identify ways to reduce poor sequencing outcomes?**](dataviz_groupactivity.qmd)
 
-## [**Demonstration on how Microreact can be used to tell a story**](dataviz_microreact_demo.qmd)
+[**Demonstration on how Microreact can be used to tell a story**](dataviz_microreact_demo.qmd)
 
-## [**Activity: Using Microreact to tell our own story**](dataviz_Microreact_activity.qmd)
+[**Activity: Using Microreact to tell our own story**](dataviz_Microreact_activity.qmd)
 
-## Resources: **Microreact instructional videos**
+**Resources: Microreact instructional videos**

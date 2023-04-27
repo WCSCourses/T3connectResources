@@ -1,0 +1,5 @@
+---
+title: "Examples of strategies"
+---
+
+**Presentation: [Examples of strategies](docs/Examples%20of%20strategies.pdf)**

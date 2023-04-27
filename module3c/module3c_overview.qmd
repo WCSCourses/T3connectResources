@@ -10,6 +10,8 @@ The polls created an opportunity for learners to reflect and also to communicate
 
 [Introduction: Data analysis and integration](module3c_introduction.qmd)
 
+[Presentation](docs/Data%20analysis%20and%20integration.pdf) delivered by the instructor (Silvia Argimón) during the session.
+
 [Activities background: Klebsiella pneumoniae in the nosocomial setting](module3c_activities_background.qmd)
 
 [Activity 1A: Explore the epidemiological data](module3c_activity1a.qmd) (5 min)
@@ -29,3 +31,5 @@ The polls created an opportunity for learners to reflect and also to communicate
 [Bonus activity](module3c_bonus.qmd)
 
 [Resources](module3c_resources.qmd)
+
+[References and Acknowledgements](module3c_references.qmd)
