@@ -1,0 +1,13 @@
+---
+title: "Module 2"
+---
+
+**Module lead: Dr. Alice Matimba**
+
+This module was made available to participants through a Learning Management System, during the actual face-to-face course.
+
+[Introduction](module2_introduction.qmd)
+
+[Resources](module2_resources.qmd)
+
+[References and Acknowledgements](module2_references.qmd)

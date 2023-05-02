@@ -1,0 +1,13 @@
+---
+title: "Activity 1"
+---
+
+## TB case study
+
+Please read the article: [Mycobacterium tuberculosis transmission in Birmingham, UK, 2009--19: An observational study](docs/Mycobacterium_tuberculosis_transmission_in_Birming.pdf) before module 3A starts and think about the following:
+
+a\. What gaps did the study have in the context of sample and data collection?
+
+b\. What would they have done better to improve sample and data collection?
+
+c\. How do they think they would teach the lessons learned from this case study?

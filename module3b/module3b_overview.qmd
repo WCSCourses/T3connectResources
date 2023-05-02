@@ -1,0 +1,13 @@
+---
+title: "Module 3B"
+---
+
+**Module lead: Dr. Matthew Dorman**
+
+This module was made available to participants through a Learning Management System, during the actual face-to-face course.
+
+[Introduction](module3b_introduction.qmd)
+
+[Resources](module3b_resources.qmd)
+
+[References and Acknowledgements](module3b_references.qmd)

@@ -1,0 +1,15 @@
+---
+title: "Activity 2"
+---
+
+## **Metadata study**
+
+Please divide into 5 groups.
+
+You will be given different metadata fields ([metadata study](docs/Metadata study.pdf)). Please answer the following:
+
+-   what could this tell you about the species of the genomes?
+
+-   what are the implications for this patient/s?
+
+-   What are the other public health implications?

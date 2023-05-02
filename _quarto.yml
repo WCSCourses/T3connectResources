@@ -15,6 +15,9 @@ website:
           - resources.qmd
           - module1a/module1a_overview.qmd
           - module1b/module1b_overview.qmd
+          - module2/module2_overview.qmd
+          - module3a/module3a_overview.qmd
+          - module3b/module3b_overview.qmd
           - module3c/module3c_overview.qmd
           - module3d/module3d_overview.qmd
           - dataviz/dataviz.qmd
@@ -48,6 +51,25 @@ website:
           - module1b/module1b_infrastructure.qmd
           - module1b/module1b_microbial_genomics_resources.qmd
           - module1b/module1b_references.qmd
+      - section: "Module 2"
+        contents:
+          - module2/module2_introduction.qmd
+          - module2/module2_resources.qmd
+          - module2/module2_references.qmd
+      - section: "Module 3A"
+        contents:
+          - module3a/module3a_introduction.qmd
+          - module3a/module3a_presentation.qmd
+          - module3a/module3a_activity1.qmd
+          - module3a/module3a_activity2.qmd
+          - module3a/module3a_videos.qmd
+          - module3a/module3a_resources.qmd
+          - module3a/module3a_references.qmd
+      - section: "Module 3B"
+        contents:
+          - module3b/module3b_introduction.qmd
+          - module3b/module3b_resources.qmd
+          - module3b/module3b_references.qmd
       - section: "Module 3C"
         contents:
           - module3c/module3c_introduction.qmd

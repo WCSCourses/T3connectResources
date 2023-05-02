@@ -1,0 +1,9 @@
+---
+title: "Videos"
+---
+
+## **Specimen collection & processing**
+
+Specimen collection and processing: [Video on YouTube](https://www.youtube.com/watch?v=_kZmOAj1xfg)
+
+Specimen labeling errors {{< video https://www.youtube.com/embed/CG5IMhH-TYk width="80%">}}

@@ -1,0 +1,21 @@
+---
+title: "Introduction"
+---
+
+## **Introduction to module 3A**
+
+Module 3A sets a foundation in the process of collecting appropriate samples and metadata, correct storage and processing depending on the types of WGS needed to address a given clinical question to inform policy or practice. The module aims to make the trainees appreciate the critical value of pre-analytical processes of specimen collection and processing to the outcome data and its interpretation/application. Answering questions, why is the specimen needed, what type of specimen, how is the specimen processed and when should the specimen be collected is crucial for acquiring quality and informative data.  
+
+# **Learning Outcomes**
+
+At the end of this module participants will be able to:
+
+1.  List the do\'s and don\'ts in specimen collection and processing
+
+2.  Distinguish specimen requirements in outbreak and surveillance investigations.
+
+3.  Map the specimen collection and processing pathway for genomics.
+
+4.  Identify the types of metadata needed in different scenarios.
+
+5.  Identify ways to effectively teach data/specimen collection and processing.

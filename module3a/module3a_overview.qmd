@@ -1,0 +1,21 @@
+---
+title: "Module 3A"
+---
+
+**Module leads: Dr Wilber Sabiiti and Dr Charlene Rodrigues**
+
+This module was made available to participants through a Learning Management System, during the actual face-to-face course.
+
+[Introduction](module3a_introduction.qmd)
+
+Presentation: [Best practice in specimen collection and handling](module3a_presentation.qmd)
+
+Activity 1: [TB case study](module3a_activity1.qmd)
+
+Activity 2: [Metadata study](module3a_activity2.qmd)
+
+Videos: [Specimen collection & processing](module3a_videos.qmd)
+
+[Resources](module3a_resources.qmd)
+
+[References and Acknowledgements](module3a_references.qmd)
