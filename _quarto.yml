@@ -54,6 +54,12 @@ website:
       - section: "Module 2"
         contents:
           - module2/module2_introduction.qmd
+          - module2/module2_presentation_concepts.qmd
+          - module2/module2_activity_pack.qmd
+          - module2/module2_competencies.qmd
+          - module2/module2_design_toolkit.qmd
+          - module2/module2_evaluation.qmd
+          - module2/module2_evaluation_exercise.qmd
           - module2/module2_resources.qmd
           - module2/module2_references.qmd
       - section: "Module 3A"

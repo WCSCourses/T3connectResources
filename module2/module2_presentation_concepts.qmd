@@ -1,0 +1,5 @@
+---
+title: "Presentation"
+---
+
+[**Presentation: Concepts to training**](docs/Concepts of training design.pdf)

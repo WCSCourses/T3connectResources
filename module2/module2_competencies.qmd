@@ -1,0 +1,5 @@
+---
+title: "Activity: Competencies"
+---
+
+[Please fill in the competencies spreadsheet](docs/Competencies spreadsheet.xlsx)

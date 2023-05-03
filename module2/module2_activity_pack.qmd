@@ -1,0 +1,7 @@
+---
+title: "Activity Pack"
+---
+
+Please download and follow the [Activity Pack](docs/Activity Pack.pdf) instructions and then download the [Activity slides](docs/Activity Slides.pptx) template, and fill it in.
+
+Forum: One person from each group should add a new topic and enter the names of the group members as the title in the subject field. Then go to advanced and add your filled in Activity slides as an attachment.

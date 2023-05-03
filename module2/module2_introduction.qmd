@@ -7,3 +7,8 @@ title: "Introduction"
 # **Learning Outcomes**
 
 At the end of this module participants will be able to:
+
+1.  Apply good practice in learning and training design for pathogen genomics and bioinformatics
+2.  Apply outcome-based and [competency](https://lms.wellcomeconnectingscience.org/mod/glossary/showentry.php?eid=86&displayformat=dictionary "Train the Trainer Glossary: Competency") mapping methods for genomics skills development among healthcare professionals
+3.  Design training strategies, activities and resources for effective delivery of pathogen genomics training.
+4.  Outline a training and delivery plan for a short course in pathogen genomics

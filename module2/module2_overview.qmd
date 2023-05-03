@@ -8,6 +8,18 @@ This module was made available to participants through a Learning Management Sys
 
 [Introduction](module2_introduction.qmd)
 
+[Presentation: Concepts of training design](module2_presentation_concepts.qmd)
+
+[Activity pack](module2_activity_pack.qmd)
+
+[Competencies](module2_competencies.qmd)
+
+[T3Connect Design Toolkit](module2_design_toolkit.qmd)
+
+[Evaluation](module2_evaluation.qmd)
+
+[Evaluation exercise](module2_evaluation_exercise.qmd)
+
 [Resources](module2_resources.qmd)
 
 [References and Acknowledgements](module2_references.qmd)
