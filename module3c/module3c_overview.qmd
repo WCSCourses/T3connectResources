@@ -2,7 +2,9 @@
 title: "Module 3C"
 ---
 
-Module lead: Silvia Argimon
+Module lead: **Silvia Argimon**
+
+Late of last revision: **June 2023**
 
 This module was made available to participants through a Learning Management System, during the actual face-to-face course.
 

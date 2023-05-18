@@ -4,6 +4,16 @@ title: "Introduction"
 
 ## **Introduction to module 3B**
 
+The production of reliable and accurate genome sequencing data is essential to enabling genomic surveillance and analysis of pathogens. Similarly, consideration needs to be given to the selection and use of analytical methodologies that are appropriate to the types of genome sequencing data generated from a pathogen. The quality of the material to be sequenced -- and its quality control -- can therefore fundamentally alter the way in which genomic data can be interpreted, and misinterpretation can lead to erroneous conclusions being drawn about a pathogen\'s virulence, transmission dynamics, or antimicrobial resistance genotype. 
+
+As a result, trainers need to be equipped to teach others how to think about quality control (QC) -- both of sequencing data and of the purity, integrity, and size of the nucleic acids which are used for sequencing reactions. This module aims to be highly interactive, presenting learners with real-world examples in which incorrect or erroneous conclusions can be drawn from failing to control for the quality of data. The overall aim of this module is not to train trainers in how to perform data QC or genomic analysis -- rather, it aims to highlight the consequences of failing to do so, and the importance of incorporating these considerations into the design of an effective genomics training curriculum.
+
 # **Learning Outcomes**
 
 At the end of this module participants will be able to:
+
+1.  Use examples of sub-optimal data and input materials to guide the design of training materials/curricula that are suitable for real-world applications
+
+2.  Describe examples of multiple (\~3) genomic methods that can be used for bacterial genomic analysis which are complementary to the material discussed in other sections of Module 3
+
+3.  Understand the position of QC steps in the workflow for pathogen genomic analysis discussed in other course Modules.

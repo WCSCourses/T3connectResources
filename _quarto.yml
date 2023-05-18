@@ -20,6 +20,7 @@ website:
           - module3b/module3b_overview.qmd
           - module3c/module3c_overview.qmd
           - module3d/module3d_overview.qmd
+          - module4/module4_overview.qmd
           - dataviz/dataviz.qmd
 
   page-footer: 
@@ -74,6 +75,8 @@ website:
       - section: "Module 3B"
         contents:
           - module3b/module3b_introduction.qmd
+          - module3b/module3b_presentation.qmd
+          - module3b/module3b_activity.qmd
           - module3b/module3b_resources.qmd
           - module3b/module3b_references.qmd
       - section: "Module 3C"
@@ -100,6 +103,11 @@ website:
           - module3d/module3d_group_activity.qmd
           - module3d/module3d_resources.qmd
           - module3d/module3d_references.qmd
+      - section: "Module 4"
+        contents:
+          - module4/module4_introduction.qmd
+          - module4/module4_resources.qmd
+          - module4/module4_references.qmd
       - section: "Workshop on Data Viz"
         contents:
           - dataviz/dataviz.qmd

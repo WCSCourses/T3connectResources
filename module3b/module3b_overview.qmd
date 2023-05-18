@@ -2,11 +2,17 @@
 title: "Module 3B"
 ---
 
-**Module lead: Dr. Matthew Dorman**
+Module lead: **Dr. Matthew Dorman**
+
+Late of last revision: **June 2023**
 
 This module was made available to participants through a Learning Management System, during the actual face-to-face course.
 
 [Introduction](module3b_introduction.qmd)
+
+[Presentation](module3b_presentation.qmd)
+
+[Activity](module3b_activity.qmd)
 
 [Resources](module3b_resources.qmd)
 

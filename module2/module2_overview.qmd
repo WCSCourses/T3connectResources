@@ -2,7 +2,9 @@
 title: "Module 2"
 ---
 
-**Module lead: Dr. Alice Matimba**
+Module lead: **Dr. Alice Matimba**
+
+Late of last revision: **June 2023**
 
 This module was made available to participants through a Learning Management System, during the actual face-to-face course.
 

@@ -2,7 +2,9 @@
 title: "Module 3D"
 ---
 
-**Module lead: Francesc Coll**
+Module lead: **Francesc Coll**
+
+Late of last revision: **June 2023**
 
 This module was made available to participants through a Learning Management System, during the actual face-to-face course.
 

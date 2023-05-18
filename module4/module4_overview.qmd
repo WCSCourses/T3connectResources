@@ -1,0 +1,17 @@
+---
+title: "Module 4"
+---
+
+Module lead: **Dr. Rachel Berkson**
+
+Late of last revision: **June 2023**
+
+This module was made available to participants through a Learning Management System, during the actual face-to-face course.
+
+[Introduction](module4_introduction.qmd)
+
+**P**resentation: [Introduction to peer review](module4_presentation.qmd)
+
+[Activity: Training design](module4_activity.qmd)
+
+[References and Acknowledgements](module4_references.qmd)
