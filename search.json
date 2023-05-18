@@ -1,0 +1,499 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Overview",
+    "section": "",
+    "text": "The materials provided in this repository are FREE to use.\nThis work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement."
+  },
+  {
+    "objectID": "module3b/module3b_presentation.html",
+    "href": "module3b/module3b_presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "Presentation : Sample Genomic Analysis, Data Generation, and QC"
+  },
+  {
+    "objectID": "module3b/module3b_references.html",
+    "href": "module3b/module3b_references.html",
+    "title": "References and Acknowledgements",
+    "section": "",
+    "text": "Slides on References and acknowledgements"
+  },
+  {
+    "objectID": "module3b/module3b_activity.html",
+    "href": "module3b/module3b_activity.html",
+    "title": "Activity",
+    "section": "",
+    "text": "Activity: Workflow based on your own professional setting (45 min, group work)\nParticipants are asked to form groups and describe a workflow based on their own professional setting from end to end. They should be looking for opportunities for quality control in the process described and how to assess success and failure.\nEach group should present its findings to the rest of the classroom."
+  },
+  {
+    "objectID": "module3b/module3b_overview.html",
+    "href": "module3b/module3b_overview.html",
+    "title": "Module 3B",
+    "section": "",
+    "text": "Module lead: Dr. Matthew Dorman\nLate of last revision: June 2023\nThis module was made available to participants through a Learning Management System, during the actual face-to-face course.\nIntroduction\nPresentation\nActivity\nResources\nReferences and Acknowledgements"
+  },
+  {
+    "objectID": "module3b/module3b_introduction.html",
+    "href": "module3b/module3b_introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "The production of reliable and accurate genome sequencing data is essential to enabling genomic surveillance and analysis of pathogens. Similarly, consideration needs to be given to the selection and use of analytical methodologies that are appropriate to the types of genome sequencing data generated from a pathogen. The quality of the material to be sequenced – and its quality control – can therefore fundamentally alter the way in which genomic data can be interpreted, and misinterpretation can lead to erroneous conclusions being drawn about a pathogen's virulence, transmission dynamics, or antimicrobial resistance genotype. \nAs a result, trainers need to be equipped to teach others how to think about quality control (QC) – both of sequencing data and of the purity, integrity, and size of the nucleic acids which are used for sequencing reactions. This module aims to be highly interactive, presenting learners with real-world examples in which incorrect or erroneous conclusions can be drawn from failing to control for the quality of data. The overall aim of this module is not to train trainers in how to perform data QC or genomic analysis – rather, it aims to highlight the consequences of failing to do so, and the importance of incorporating these considerations into the design of an effective genomics training curriculum."
+  },
+  {
+    "objectID": "module4/module4_activity.html",
+    "href": "module4/module4_activity.html",
+    "title": "Activity: Training design",
+    "section": "",
+    "text": "Please download the planning template, and fill it in.\n(Please use this rubric to guide you in your peer review process tomorrow.)"
+  },
+  {
+    "objectID": "module4/module4_presentation.html",
+    "href": "module4/module4_presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "Presentation: Introduction to peer review"
+  },
+  {
+    "objectID": "module4/module4_references.html",
+    "href": "module4/module4_references.html",
+    "title": "References and Acknowledgements",
+    "section": "",
+    "text": "Slides on References and acknowledgements"
+  },
+  {
+    "objectID": "module4/module4_overview.html",
+    "href": "module4/module4_overview.html",
+    "title": "Module 4",
+    "section": "",
+    "text": "Module lead: Dr. Rachel Berkson\nLate of last revision: June 2023\nThis module was made available to participants through a Learning Management System, during the actual face-to-face course.\nIntroduction\nPresentation: Introduction to peer review\nActivity: Training design\nReferences and Acknowledgements"
+  },
+  {
+    "objectID": "module4/module4_introduction.html",
+    "href": "module4/module4_introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "In this final module, you will have a chance to put into practice what you have learned earlier in the course. You will spend most of the day on Wednesday working on a design for your own training. There will be some short guided exercises throughout the day to help you to think about specific aspects such as evaluation, public speaking and so on. \nOn Thursday, you will have an opportunity to present a summary of your design to the rest of the group. You will receive peer feedback on your design as well as commenting on designs by your fellow learners.\nYou probably won’t be able to complete an entire detailed design for a training activity in just one day, so please don’t worry if you run out of time! The idea is that you will be able to start thinking about the key questions and have the core of something you can take forward for further development after the course finishes."
+  },
+  {
+    "objectID": "module1b/module1b_implementing_genomics_in_healthcare.html",
+    "href": "module1b/module1b_implementing_genomics_in_healthcare.html",
+    "title": "Implementing genomics in healthcare",
+    "section": "",
+    "text": "Microbial genome sequencing is being integrated into routine clinical microbiology and public health. There are several considerations in effectively implementing genomics in healthcare including workflow management, data analysis, reporting, evaluation and how the data can be used for decision-making. Below is a showcase of how pathogen genomics is being implemented in clinical settings and scaled up in public health organisations.\nThe Microbiology society have published a collection of case studies on how microbial genomics works in the \"real world\" clinical and health laboratory settings, and testing approaches to improving the integration of genomics into routine microbiological. \nThe PHG foundation outlines the importance of translating pathogen genomics into policy and practice in the UK and provide recommendations on implementation. In the article, Pathogen Genomics Into Practice, Sections 13-14 describes configuration of pathogen genomic services.\nPublic Health England have also reported case studies on implementing and delivery of WGS for pathogen surveillance. Explore the article: Implementing pathogen genomics.\nDiscussion forum: Briefly describe an activity where you have been involved in implementing WGS for specific microbial application, the challenges and the outcomes."
+  },
+  {
+    "objectID": "module1b/module1b_microbial_genomics_resources.html",
+    "href": "module1b/module1b_microbial_genomics_resources.html",
+    "title": "Microbial genomics resources",
+    "section": "",
+    "text": "There are many tools and resources for use across the microbial genomics pipelines for whole genome sequencing data covering data quality control, species and contamination detection, genome assembly, in silico typing, genome annotation and alignment, phylogenetic and data visualisation.\nClick to download the document on Microbial genomics resources compiled by genomics specialists and contains a list of genomics data tools and pipelines for various species or applications."
+  },
+  {
+    "objectID": "module1b/module1b_ethical_issues.html",
+    "href": "module1b/module1b_ethical_issues.html",
+    "title": "Ethical issues",
+    "section": "",
+    "text": "The application of genomic sequencing in clinical microbiology for diagnostics, determining drug sensitivity, outbreak investigation, understanding pathogen evolution and AMR surveillance, requires close consideration of ethical, legal and social issues that may arise due to the sensitivity and potential use of data.\nThe article The ethics of sequencing infectious disease pathogens for clinical and public health, highlights how phylogenetic analysis can provide evidence of transmission among populations and small groups, or identify individual sources of an outbreak, with potentially harmful consequences such as discrimination and stigma. In turn, this may impact on outbreak interventions and discourage voluntary testing.\nOther ethical issues encountered in pathogen genomics include consent, confidentiality, privacy and data sharing, feedback of incidental findings, ownership and trust. Risks should be explored and mitigatory measures applied to minimise harm. The authors of the article Ethical challenges in pathogen sequencing: a systematic scoping review discuss emerging ethical challenges in genomic sequencing of pathogens and identify practical social science, professional and ethical solutions to consenting data collection, use and sharing. \nThe article Ethical Challenges Associated with Pathogen and Host Genetics in Infectious Disease discusses how genomic surveillance, metagenomics raise ethical questions for individuals and communities. In particular, viral diseases such as HIV/AIDS and SARS-Cov2/Covid-19 highlight the need to collectively assess ethical issues raised in the interactions between humans, animals and the environment.\nDiscussion forum: Describe genomics-related ethical challenges which you face in your work environment or profession."
+  },
+  {
+    "objectID": "module1b/module1b_overview.html",
+    "href": "module1b/module1b_overview.html",
+    "title": "Module 1B",
+    "section": "",
+    "text": "Module leads: Charlene Rodrigues and Alice Matimba\nLate of last revision: June 2023\nThis module was made available to participants through a Learning Management System, before the actual face-to-face course.\nThe forums created an opportunity for learners to reflect and also to communicate their thoughts to instructors and to their peers.\nIntroduction\nEthical Issues in pathogen genomics\nFlow of data from sample to decision making\nImplementing genomics in healthcare\nInfrastructure for pathogen genomics data\nMicrobial genomics resources\nReferences and Acknowledgements"
+  },
+  {
+    "objectID": "module1b/module1b_flow_of_data.html",
+    "href": "module1b/module1b_flow_of_data.html",
+    "title": "Flow of data",
+    "section": "",
+    "text": "Discussion forum: Consider the data flow pipeline from sample to decision-making presented in the previous step.\n\nDiscuss how this applies to your setting. \nDiscuss limitations in your institutions - e.g. infrastructure, processes, skills and capacity."
+  },
+  {
+    "objectID": "module1b/module1b_infrastructure.html",
+    "href": "module1b/module1b_infrastructure.html",
+    "title": "Infrastructure",
+    "section": "",
+    "text": "During the COVID-19 pandemic, Black et al. (2020) discuss recommendations for a unified open data informatic ecosystem to support pathogen genomic analysis in public health agencies across geographical regions and income settings. They also describe a bioinformatics platform for data processing, analysis and visualisation. See Figure 1 in article -Ten recommendations for supporting open pathogen genomic analysis in public health.\nThe AusTrakka platform developed in Australia streamlines genomic and epidemiological data sharing and enables fine-grained access controls of data enabling public health decision-making. See Figure 1 in article - AusTrakka: Fast-tracking nationalized genomics surveillance in response to the COVID-19 pandemic.\nDiscussion forum: How is the data infrastructure set up in your work environments? What are the pros and cons of centralised vs localised platforms for integrating genomic information and data sharing?"
+  },
+  {
+    "objectID": "module1b/module1b_references.html",
+    "href": "module1b/module1b_references.html",
+    "title": "References and Acknowledgements",
+    "section": "",
+    "text": "Slides on References and acknowledgements"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "T3Connect – Data Science and Genomic Pathogen Surveillance Training Programme",
+    "section": "",
+    "text": "This page is a repository for training resources designed and developed for the T3Connect courses.\nT3Connect – Data Science and Genomic Pathogen Surveillance Training Programme is a series of train-the-trainer courses, funded by UKRI, which aims to strengthen capacity in data science and pathogen genomics for applications in infectious diseases.\nA collaboration between the Centre for Genomic Pathogen Surveillance and Wellcome Connecting Science, the programme applies the concept of forward training and equip professionals who interface with pathogen genomics data science with the skills needed to train others.\nTrain-the-trainer strategies provide an effective method for empowering scientists with tools and resources to pass on their knowledge and skills to their colleagues and multidisciplinary peers, thereby accelerating capacity for genomics in healthcare.\nThis FREE course provides participants with methods and techniques for training adult learners in analysis of genomics as applied in clinical management and public health. It integrates pedagogical aspects with pathogen genomic analysis, application and interpretation for management and surveillance of infectious disease. Participants will develop deeper knowledge of teaching and facilitation methodologies that they can later apply in their respective fields and work environments.\nTarget Audience\nThe course is aimed at researchers, healthcare and training professionals who are involved in any aspect of genomics or data science, and who are interested in building their capabilities to effectively share their knowledge and skills with others focused on pathogen genomic analysis, application and interpretation in management of infectious disease. This includes clinical, biomedical, and public health scientists, epidemiologists, bioinformaticians.\nParticipants may also be involved in genomics technologies and computational biology training programmes, and interested in developing training resources for potential application of pathogen genomics in healthcare and public health.\nLink to Curriculum\nLink to Training materials"
+  },
+  {
+    "objectID": "module3c/module3c_overview.html",
+    "href": "module3c/module3c_overview.html",
+    "title": "Module 3C",
+    "section": "",
+    "text": "Module lead: Silvia Argimon\nLate of last revision: June 2023\nThis module was made available to participants through a Learning Management System, during the actual face-to-face course.\nThe polls created an opportunity for learners to reflect and also to communicate their thoughts to instructors and to their peers.\nIntroduction: Data analysis and integration\nPresentation delivered by the instructor (Silvia Argimón) during the session.\nActivities background: Klebsiella pneumoniae in the nosocomial setting\nActivity 1A: Explore the epidemiological data (5 min)\nActivity 1B: Explore the laboratory data (10 min)\nActivity 1C: Explore the bioinformatics data (5 min)\nActivity 1D: Integrating tabular data with data-flo (10 min)\nActivity 1E: Phylogenetic trees (10 min)\nActivity 2. Integration of data spreadsheets and the tree into an interactive visualisation with data-flo and Microreact (15 min)\nActivity 3. Reflection (15 min)\nBonus activity\nResources\nReferences and Acknowledgements"
+  },
+  {
+    "objectID": "module3c/module3c_presentation.html",
+    "href": "module3c/module3c_presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "Presentation delivered by the instructor (Silvia Argimón) during the session."
+  },
+  {
+    "objectID": "module3c/module3c_activities_background.html",
+    "href": "module3c/module3c_activities_background.html",
+    "title": "Activities background",
+    "section": "",
+    "text": "Note: This case-study is based on real sequence data from this preprint by Robertset al. but it has been modified for the purposes of teaching this course. \nKlebsiella pneumoniae (Kp) are common causes of both community-acquired and hospital-acquired infections. Infections with carbapenem-resistant Kp (CRKp) are associated with higher mortality rates than those with carbapenem-susceptible organisms and have become more common in the United Kingdom, thus posing a significant clinical and public health risk. Resistance to carbapenems can arise by high-level production of an AmpC cephalosporinase or an extended-spectrum beta-lactamase (e.g. CTX-M) combined with decreased outer membrane permeability due to mutational loss or alteration of porins (OmpK). \nAnother mechanism is the production of a β-lactamase that is capable of hydrolysing carbapenems (carbapenemase). The production of carbapenemase enzymes is typically acquired via mobile genetic elements like plasmids, which frequently carry multiple genes conferring resistance to β-lactams and to other antimicrobial classes, and that can be spread horizontally amongst different strains and species.\nSeveral carbapenemases have been described up to date and they are classified together with beta-lactamases by both their functional and structural profiles. Metallo-β-lactamases (MBLs), such as NDM (New Delhi MBL) are characterised by the requirement for zinc ions in their active site and have broad-spectrum β-lactamase activity, including carbapenemase activity, but are not active against monobactams. \nYou are the infection control specialist in a very large UK teaching hospital with an in-house sequencing facility. On July 22th one patient in the ICU was found to be infected with CRKp on a urine sample. The organism was identified as Klebsiella pneumoniae which was resistant to all antibiotics initially tested i.e. amoxicillin/clavulanate, piperacillin/tazobactam, cefotaxime, ceftazidime, cefepime, aztreonam, ertapenem, meropenem, amikacin, gentamicin, tobramycin, ciprofloxacin, and trimethoprim. Subsequent testing identified that the isolate was susceptible to colistin. The patient was isolated. \nA second CRKp case was detected on August 9th. This was also identified as K. pneumoniae, with an identical antibiogram. The infection control team commenced an outbreak investigation that involved screening of all patients in contact with the index cases, twice weekly screening of ICU patients, and sampling of the hospital environment. Over the next two months additional patients were found to be infected or colonised with K. pneumoniae with a similar antibiogram. These and other K. pneumoniae isolated during the same period were all subject to WGS. Based on evidence from the epidemiological, laboratory and genomic data you have to decide whether there is an outbreak of CRKp and which ward(s) need to undergo enhanced cleaning. Your IPC budget has been slashed and you need to choose carefully."
+  },
+  {
+    "objectID": "module3c/module3c_references.html",
+    "href": "module3c/module3c_references.html",
+    "title": "References and Acknowledgements",
+    "section": "",
+    "text": "Slides on References and acknowledgements"
+  },
+  {
+    "objectID": "module3c/module3c_activity2.html",
+    "href": "module3c/module3c_activity2.html",
+    "title": "Activity 2",
+    "section": "",
+    "text": "Next, all the files above, including the tree, were integrated with data-flo using the workflow below, which creates a Microreact visualisation as the final output.\n\n\n\nWorkflow to anonymise, harmonise, geocode, and join epi, lab and genomic data, and to create a Microreact project (https://data-flo.io/run?2cyJcXvbaNGzeSu9fJkWQq).\n\n\nNote: If you would like to try to run this workflow, click on the link (https://data-flo.io/run?2cyJcXvbaNGzeSu9fJkWQq) to open it on a new tab, and then click on the button “Run”. Upload the requested files and click “Run” again. However, we encourage you to continue with the exercise and use the output provided below to complete the activity. You can come back to this once you are done.\nMicroreact (https://microreact.org/) allows you to upload, visualise and explore any combination of clustering (trees), geographic (map) and temporal (timeline) data. Other metadata variables are displayed in a table. You can specify colours and/or shapes to display on the map, tree and/or timeline. A permanent URL is produced for you to share your Microreact.\nUsing your Chrome/Firefox web browser, open the Microreact project created by the workflow https://microreact.org/project/4mfhQ4q53eHK1ECUihbiGM-case-study-crkp\nThe microreact project contains three windows: Map, Tree and Timeline. The Tree window of this Microreact project displays the Sample/Isolate IDs and Metadata Blocks. The tree window was customised to display the labels and metadata blocks and saved as a View.\n\n\n\nMicroreact visualisation of epi, lab, and genomic data. Microreact automatically assigns colours to the columns in your data. The colours were then customised to facilitate the exercise.\n\n\nYou can toggle between the timeline and the metadata table. To familiarise yourself with Microreact, answer the following questions:\nQ8. What are the tree leaves coloured by? Open the legend drawer on the right.\nQ9. Do the tree clusters match the MLST_ST assignments?  Try selecting the main clusters (i.e., groups of genomes) one by one on the tree. \nQ10. In which cluster is the index patient (ICP027) found in? Look for it with the search bar.\nGo back to the default view with all the Metadata Blocks, and identify the carbapenem-resistant isolates.\nQ11. Are they all closely-related? Try selecting and redrawing the cluster of carbapenem-resistant isolates. Right-click on the node and click “View subtree” from the drop-down menu\nQ12. Is there an outbreak? If so, how many isolates are included in the outbreak?\nQ13. In how many wards would you implement enhanced cleaning? How does this compare to your answer in Q3? Would you have made the same decision about enhanced cleaning based on Epi and Lab data only?"
+  },
+  {
+    "objectID": "module3c/module3c_introduction.html",
+    "href": "module3c/module3c_introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Genomic surveillance of pathogens aims to understand the emergence and dissemination of pathogens or their lineages of risk with the ultimate goal of implementing evidence-based interventions to protect public health. Effective, real-time genomic surveillance relies on the streamlined collection, analysis and integration of diverse sources of data.\n\n\n\nTypical workflow for genomic surveillance.\n\n\nModule 3A reviewed the fundamentals of specimen collection, a process during which epidemiological data from patients is also collected by healthcare professionals. Data on species identification and phenotypic or molecular characterization of the isolates is often generated by the reference laboratory or by microbiology laboratories linked to healthcare facilities. In an ideal scenario, the different sources of laboratory data are stored in a centralised surveillance system and database (such as WHONET). \nModule 3B reviewed how the quality of the material to be sequenced, and that of the sequence data itself may alter how data can be interpreted. Bioinformaticians often use different analytic tools to extract useful data from the genomes, such as presence of markers of risk (e.g., AMR and virulence genes), genotyping information (e.g., MLST, cgMLST, and other species-specific typing), and phylogenetic relationships (trees), as well as quality metrics. Module 1B summarised some of the analytic tools and resources commonly used for data analysis. However, these outputs are rarely incorporated into the same database as epidemiological and laboratory data. \nThe genomic epidemiologist’s job often starts by combining data from diverse sources that might not be complete or standardised to facilitate the identification of relevant patterns for meaningful interpretation and intervention. The data and any patterns often need to be digested and summarised for decision makers. To this purpose, the Centre for Genomic Pathogen Surveillance develops free web applications for integration and visualisation of surveillance (and other) data, called data-flo and Microreact. \nThe aim of this module is to highlight the role of different analytics and sources of data in pathogen surveillance, and the value of streamlined data integration for real-time decision making, while also introducing resources that can facilitate the inclusion of this topic in teaching curricula."
+  },
+  {
+    "objectID": "module3c/module3c_resources.html",
+    "href": "module3c/module3c_resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Data-flo Documentation: https://docs.data-flo.io/introduction/readme\nIf you found data-flo useful and would like to continue using it, start by creating an account https://data-flo.io/signin. There are a few public workflows with useful transformations such as left join two CSVs (https://data-flo.io/run?bzYR3DtxRJsBty5ezb5LoJ) or the Geocoder (https://data-flo.io/run?kvpsi3T8V) that you can try.\nYou can also copy the workflows from Module 3C to your account (data-flo will assign a new id to the workflow in your account) and edit them to tailor them to your needs.\nA similar workflow to the one used on this course can be found in the documentation https://docs.data-flo.io/tutorials/prep-outbreak-data-for-microreact. In this workflow, one of the inputs is a SNP matrix. \nData-flo also allows you to import data from a Google Spreadsheet (https://docs.data-flo.io/using-data-flo/specific-adaptors/google-spreadsheet) or from a database (https://docs.data-flo.io/tutorials/common-use-cases-solved/connect-directly-to-a-database) (as opposed to downloading data from the spreadsheet/database into a file). \nMicroreact documentation: https://docs.microreact.org/\nThe showcase (https://microreact.org/) page contains several examples. You can open them, download the data and trees and create your own projects to get more familiar with Microreact. \nTo be able to edit and manage projects, please create your own Microreact Account https://microreact.org/api/auth/signin. \nYou can customise the colours of your visualisations by assigning colours to the different variables before you create the Microreact project and/or after the project was created https://docs.microreact.org/instructions/labels-colours-and-shapes.\nEveryone with access to a Microreact project has access to the data the project uses. Privacy and permissions can be configured to change who can access the project and its data https://docs.microreact.org/instructions/access-control-and-project-sharing."
+  },
+  {
+    "objectID": "module3c/module3c_bonus.html",
+    "href": "module3c/module3c_bonus.html",
+    "title": "Bonus activity",
+    "section": "",
+    "text": "Only if you have completed Activities 1-3 and you have spare time until the wrap-up session.\n\n\n\nComparison of Patient Sex before and after harmonisation on a Microreact custom View https://microreact.org/project/4mfhQ4q53eHK1ECUihbiGM-case-study-crkp#krr3-patient-sex\n\n\nThe Epi, Lab, and Bix data comprised 23 isolates, but the tree only contains 22 leaves.\nBQ1. What do you think happened to the genome from Sample/Isolate ID KPN002 and why? Tip: Look at genome quality data.\nBQ2. How did the harmonisation of the column Patient Sex with data-flo impact the Microreact Viz? Click on Views on the right, then click on the view called Patient Sex. “Patient Sex” displays the original data and “Sex” displays the data harmonised by data-flo. Tip: Open the Legend drawer. How many different sex options are there in each metadata block?"
+  },
+  {
+    "objectID": "module3c/module3c_activity1c.html",
+    "href": "module3c/module3c_activity1c.html",
+    "title": "Activity 1C",
+    "section": "",
+    "text": "The genomes of these isolates were sequenced and analysed in record time, and the bioinformatician has just sent you two files, Bix_data.csv and tree.nwk. The file Bix_data.csv includes genome quality, genotyping (MLST), and identification of AMR genes and mutations. The column “Lane” is the WGS identifier. Open the file Bix_data.csv with Excel and explore the results. \nQ4. Can you link the bioinformatics results to the epi data and laboratory results?"
+  },
+  {
+    "objectID": "module3c/module3c_activity3.html",
+    "href": "module3c/module3c_activity3.html",
+    "title": "Activity 3",
+    "section": "",
+    "text": "Within your table group discuss the value of different data sources and of data integration for outbreak investigation and intervention. Did you get to the same intervention strategy in Q3 and Q16? If not, what made the difference? \nWhich domain concepts covered in this session (or similar ones) would you foresee having to teach in the future? How would you do it? Note: See presentation slides 2 and 11 for reference to domain concepts. \nCan you think of an alternative method to teach data integration for decision making?"
+  },
+  {
+    "objectID": "module3c/module3c_activity1e.html",
+    "href": "module3c/module3c_activity1e.html",
+    "title": "Activity 1E",
+    "section": "",
+    "text": "The file tree.nwk is a phylogenetic tree describing the genetic relationships between isolates in Newick format (https://evolution.genetics.washington.edu/phylip/newick_doc.html). Each sequenced sample sits on a tree “leaf” (Figure 3), and samples joined by a tree “node” are assumed to descend from a common ancestor. Tips and nodes are connected by tree “branches”, which length is proportional to the amount of genetic variation between the connections. When no genetic variation is detected between two or more samples the branch length is zero. \nOpen the file tree.nwk with FigTree and examine the tree. An image of the tree is also provided in case FigTree is not available on your computer.\n\n\n\nPhylogenetic tree\n\n\nQ6. Looking at the tree only, can you find any patterns in the tree structure that would help you determine if there is an outbreak of CRKp? If so, how many isolates/genomes are in the putative outbreak? \nQ7. Looking at the tree only, could you implement enhanced cleaning in specific wards to control the outbreak?"
+  },
+  {
+    "objectID": "module3c/module3c_activity1b.html",
+    "href": "module3c/module3c_activity1b.html",
+    "title": "Activity 1B",
+    "section": "",
+    "text": "The microbiology laboratory now sent you their results from culture and antimicrobial susceptibility testing. Two different carbapenem antibiotics were tested, ertapenem and meropenem. Open the file Epi_Lab.xlsx and explore the results. \nQ3. Looking at the epi data and lab results combined, can you find any patterns that would suggest that there is an outbreak of CRKp? If so, how many wards would have to undergo enhanced cleaning?"
+  },
+  {
+    "objectID": "module3c/module3c_activity1a.html",
+    "href": "module3c/module3c_activity1a.html",
+    "title": "Activity 1A",
+    "section": "",
+    "text": "During sample collection, linked epidemiological data was recorded. Open the file Epi_data.tsv with Excel and explore the data (note: patient names are made-up).\nQ1. Can you identify data that is standardised/harmonised vs data that is not? Tip: Compare \"Isolation Date\" vs \"Patient Sex\". Would a computer interpret \"Patient Sex\" in the same way as a human would do?\nQ2. Looking at the epi data only, is the key data available that will enable you to decide which wards will undergo enhanced cleaning if an outbreak is detected?"
+  },
+  {
+    "objectID": "module3c/module3c_activity1d.html",
+    "href": "module3c/module3c_activity1d.html",
+    "title": "Activity 1D",
+    "section": "",
+    "text": "The use of different sample identifiers along the genomic surveillance workflow is a common challenge. After requesting a key to link the epi and lab data to the bioinformatics results (key.csv), the Epi_data.tsv, Lab_data.xlsx, and Bix_data.csvspreadsheets were merged using data-flo and the workflow below. Data-flo is a system for customised integration and manipulation of diverse data via a simple drag and drop interface. Data-flo provides a visual method to design a reusable pipeline to integrate, clean, and manipulate data in a multitude of ways, eliminating the need for continuous manual intervention (e.g., coding, formatting, spreadsheet formulas, manual copy-pasting).\n\n\n\nWorkflow to anonymise, harmonise and join epi, lab, and bioinformatics spreadsheets (https://data-flo.io/run?gpeeL1gUjtFmmtUe9ShSYP).\n\n\nNote: You may continue with the exercise and use the output provided below to complete the activity. However, if you would like to try to run this workflow to get the output yourself, click on the workflow link (https://data-flo.io/run?gpeeL1gUjtFmmtUe9ShSYP) to open it on a new tab, and then click on the button “Run”. \nExplore the output of the above data-flo workflow by opening the file Epi-Lab-Bix.csv.\nQ5. Does this large spreadsheet allow you to quickly identify patterns that would help you determine if there is an outbreak of CRKp??"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "T3Connect – Data Science and Genomic Pathogen Surveillance Training Programme is a series of train-the-trainer courses, funded by UKRI, which aims to strengthen capacity in data science and pathogen genomics for applications in infectious diseases in the UK. A collaboration between the Centre for Genomic Pathogen Surveillance and Wellcome Connecting Science, the programme applies the concept of forward training and equip professionals who interface with pathogen genomics data science with the skills needed to train others.\nTrain-the-trainer strategies provide an effective method for empowering scientists with tools and resources to pass on their knowledge and skills to their colleagues and multidisciplinary peers, thereby accelerating capacity for genomics in healthcare.\nThis FREE course provides participants with methods and techniques for training adult learners in analysis of genomics as applied in clinical management and public health. It integrates pedagogical aspects with pathogen genomic analysis, application and interpretation for management and surveillance of infectious disease. Participants will develop deeper knowledge of teaching and facilitation methodologies that they can later apply in their respective fields and work environments.\nTarget Audience\nThe course is aimed at researchers, healthcare and training professionals who are involved in any aspect of genomics or data science, and who are interested in building their capabilities to effectively share their knowledge and skills with others focused on pathogen genomic analysis, application and interpretation in management of infectious disease. This includes clinical, biomedical, and public health scientists, epidemiologists, bioinformaticians.\nParticipants may also be involved in genomics technologies and computational biology training programmes, and interested in developing training resources for potential application of pathogen genomics in healthcare and public health."
+  },
+  {
+    "objectID": "module2/module2_competencies.html",
+    "href": "module2/module2_competencies.html",
+    "title": "Activity: Competencies",
+    "section": "",
+    "text": "Please fill in the competencies spreadsheet"
+  },
+  {
+    "objectID": "module2/module2_presentation_concepts.html",
+    "href": "module2/module2_presentation_concepts.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "Presentation: Concepts to training"
+  },
+  {
+    "objectID": "module2/module2_design_toolkit.html",
+    "href": "module2/module2_design_toolkit.html",
+    "title": "Design Toolkit",
+    "section": "",
+    "text": "T3Connect Design Toolkit"
+  },
+  {
+    "objectID": "module2/module2_overview.html",
+    "href": "module2/module2_overview.html",
+    "title": "Module 2",
+    "section": "",
+    "text": "Module lead: Dr. Alice Matimba\nLate of last revision: June 2023\nThis module was made available to participants through a Learning Management System, during the actual face-to-face course.\nIntroduction\nPresentation: Concepts of training design\nActivity pack\nCompetencies\nT3Connect Design Toolkit\nEvaluation\nEvaluation exercise\nResources\nReferences and Acknowledgements"
+  },
+  {
+    "objectID": "module2/module2_evaluation.html",
+    "href": "module2/module2_evaluation.html",
+    "title": "Evaluation",
+    "section": "",
+    "text": "Presentation: Evaluation"
+  },
+  {
+    "objectID": "module2/module2_references.html",
+    "href": "module2/module2_references.html",
+    "title": "References and Acknowledgements",
+    "section": "",
+    "text": "Slides on References and acknowledgements"
+  },
+  {
+    "objectID": "module2/module2_evaluation_exercise.html",
+    "href": "module2/module2_evaluation_exercise.html",
+    "title": "Evaluation exercise",
+    "section": "",
+    "text": "Evaluation template"
+  },
+  {
+    "objectID": "module2/module2_activity_pack.html",
+    "href": "module2/module2_activity_pack.html",
+    "title": "Activity Pack",
+    "section": "",
+    "text": "Please download and follow the Activity Pack instructions and then download the Activity slides template, and fill it in.\nForum: One person from each group should add a new topic and enter the names of the group members as the title in the subject field. Then go to advanced and add your filled in Activity slides as an attachment."
+  },
+  {
+    "objectID": "module1a/module1a_strategies.html#from-teacher-to-facilitator-of-learning-and-trainer-of-professionals-or-experts",
+    "href": "module1a/module1a_strategies.html#from-teacher-to-facilitator-of-learning-and-trainer-of-professionals-or-experts",
+    "title": "Strategies for training professionals",
+    "section": "From teacher to facilitator of learning and trainer of professionals or experts",
+    "text": "From teacher to facilitator of learning and trainer of professionals or experts\nTraditional role of a teacher  is that of being responsible for what learners should learn, how, when and if they have learned. They transmit prescribed content, controlling the way learners receive it and use it, and at the end test their knowledge. This is the model many of us know and have been through. \nFacilitator of learning on the other hand, uses existing knowledge, experience and motivation of learners to shape the learning experience. From content transmitter, the role shifts to learning process management. While the content planning and transmission in traditional model requires primarily presentation skills, facilitator has to be able to perform the function of process designer and manager, and that requires relationship building, needs assessment, involvement of students in planning, linking students to resources, encouraging students’ initiative. \nTraining professionals apply adult learning principles bycreating and preparing the learning environment conducive to learning. They consider the characteristics of their target audience, main described by adult learning principles we talked about in the previous steps. They also constantly evaluate their teaching looking to make improvements.\nHere we will present how the adult learning principles can be translated into more concrete teaching/training strategies, so that as trainers we can use methods and tools to better accommodate the learning process of our adult learners, as part of the facilitation process. \nClick on the fullscreen icon to increase the resolution of the interactive image below and then click on the plus icon to open sections with more information. (The table containing this information can be downloaded here.)\n\n\nQuiz on adult learning\n\n\nSocial learning\n\n\nWhen designing training, we should always take into account the social context where learning takes place, as learning is an active, contextualized process of constructing knowledge, rather than pure acquisition of information.\nLearning occurs through social interactions, and others in the community play important role in the process of learning. This concept is based on social constructivism, a theory of how people learn. The theory  positions social interactions, such as conversations between teacher and learner, as important in articulating what is already known so that new ideas can be introduced in the context of current understanding. L Vygotksy, the founder of social constructivism, proposed the idea of a Zone of Proximal Development (ZPD) to explain how learners master new ideas and skills under guidance from an expert.\nBuilding on this, E. Wenger showed that learning and value creation in networked Communities of Practice happen through engagement and social interaction of its members. \nIn the context of this course, social learning will be encouraged through opportunities for knowledge and experience sharing.\nFind below some examples and definitions of ways social learning can take place.\nKnowledge Sharing\nDirectly passing on ideas and information to each other\nDirect learning from others\nAsking questions, getting responses\nShared knowledge building\nDevelopment of concept  through dialogue and interaction\nGroup learning\nOrchestrated collaboration, exploration and creation\nConversational learning\nDiscussion, social interaction\nVicarious learning\nObservation of other people’s learning\nImplicit learning\nIncidental learning\nActive learning and shared responsibility\nActive learning\nThis course involves the course participants as well as the course instructors, in an active process of learning and training. This will mean maximising hands-on, problem solving activities, use of different tools and technology, case studies, group work and collaboration, making of learning plans and reflecting on learning. The instructors on this course will prepare the activities which will encourage active learners involvement, motivate and support learners and provide opportunities for formative assessment throughout the course. \nActive learners and trainers have their responsibilities. Based on what you learned in previous sections, can you decide on where the following responsibilities belong:\n\n\n\nObstacles to learning/training genomics and bioinformatics\nCreate a new discussion topic mentioning a major challenge that affects your ability to train effectively in genomics or bioinformatics. Respond to your own and other’s challenges with suggestions of how these barriers might be overcome.\nAreas you might consider: availability of time and resources, trainer knowledge and skills, reaching the right target audience, lack of institutional support, etc\n\n\nForum: Discuss learning outcomes for this course\n\n\nHere are the top level Learning Outcomes for this course:\n\nExplain the flow of pathogen genomic data/information from generation to interpretation in healthcare and public health settings.\nDesign training and communication formats by applying evidence-based learning science methodologies.\nIdentify appropriate training resources for use in training pathogen genomics and surveillance tools.\nDeliver pathogen genomic data science training to professionals working in genomic epidemiology, surveillance and outbreak investigation.\nEvaluate the self-developed training and knowledge sharing of pathogen genomic data science.\n\nPick one of the outcomes and start a thread in this forum with that name (if someone else has started it already, please use that thread). For each learning outcome, discuss the Bloom’s levels, structure of the sentence (verb, object and qualifying phrase) and comment on whether that particular outcome is written in a SMART manner.\n\n\nScope of training and teaching\nMost of what we taught in this module can be applied to different scopes and formats of teaching/training. The trainer’s or teacher’s knowledge, skills and attitudes we talked about are needed to apply an active, learner centred approach to teaching/training . However, we paid most attention to training of adult professionals that often takes place via short courses, workshops, seminars, on job training (or in-person, virtual or hybrid equivalents).  You might be working or planning to work on a university course or even the programme consisting of more than one course. You will still be able to use the principles of learning and training described in this module and further in Module 2, in other contexts where your work might be situated. \nWhat is the scope of teaching/training you will be working on and what do you think are the main differences in design approach between short training courses and university courses?"
+  },
+  {
+    "objectID": "module1a/module1a_introduction.html",
+    "href": "module1a/module1a_introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Overview of adult learning principles and training design techniques\nThis module was made available to participants through a Learning Management System, before the actual face-to-face course.\nThe forums created an opportunity for learners to reflect and also to communicate their thoughts to instructors and to their peers.\nWhat this module covers:\nThis introductory module gives learners a chance to explore their own memories and habits regarding learning and training. \nIt also explains educational theory that underpins adult teaching and training, and the approaches the educators used for this particular course.The module presents an approach to training design which will be used throughout the course, including in the course project when learners design training on their own.\nIntended learning outcomes for this module\nAt the end of the module, learners should be able to: \n-  List main principles underpinning adult learning \n-  Describe practical application of adult learning principles \n-  Explain outcome driven design approach for use in training and teaching \n-  Define learning outcomes in a SMART way using Bloom’s taxonomy\n - Discuss purpose, scope and types of evaluation in education\n-  Plan their training design required for the course project.  \nThis module takes approximately 2 hours to go through. \n\n\nForum: Icebreaker activity\nIn this forum, learners are asked to share a few lines about themselves.\n\nWhat they do\nWhere they are from\nSomething they do well (why do they think that’s the case?)\nSomething they do not do well (why do they think that’s the case?)\n\n\n\nForum: What are your learning and teaching experiences?\nIn this forum, learners are asked to share\n\nTheir happiest memory of learning.\nWhat experience they remember as being most fun, most effective, and perhaps most influential?\nTheir happiest memory of teaching or training.\nWhat experience they remember as being most fun, most effective, and perhaps most influential ?\nDo they teach or train the way they like to learn? Why? or Why not?"
+  },
+  {
+    "objectID": "module1a/module1a_overview.html",
+    "href": "module1a/module1a_overview.html",
+    "title": "Module 1A",
+    "section": "",
+    "text": "Module lead: Dusanka Nikolic\nLate of last revision: June 2023\nThis module was made available to participants through a Learning Management System, before the actual face-to-face course.\nThe forums created an opportunity for learners to reflect and also to communicate their thoughts to instructors and to their peers.\nIntroduction\nStrategies for training professionals\nElements of effective training and communication in genomics and bioinformatics\nTraining design\nReferences and Acknowledgements"
+  },
+  {
+    "objectID": "module1a/module1a_training_design.html",
+    "href": "module1a/module1a_training_design.html",
+    "title": "Training design",
+    "section": "",
+    "text": "Universal Design for Learning\nIn this step of the course, we will talk about some general principles on how to prepare as a trainer to accommodate  learning that is inclusive and accessible.\nMotivation and inclusion of learners\nThe main motivation in the context of domain specific training such as genomics and bioinformatics, will be ‘competence motivation’. Although extrinsic rewards can affect behaviour, adult learners work/learn hard for intrinsic reasons as well.\nTo motivate and include your learners:\n\nintroduce social opportunities - feeling that one is contributing towards helping others, or one’s community can be very powerful motivation\nallow learners to see the usefulness of their learning – and impact on others, especially the local community (including teaching others, presenting learning to others, working effectively in groups).\nconsider different learners’ styles and needs: some learners will prefer learning through observing, some through discussing or collaboration with others, or ‘hands-on’ exercise. Accessibility is a very important factor to consider. When designing courses/training, different learning needs should be recognised and opportunities created for everyone to take part in the process of learning/training. Universal Design for Learning (UDL) principles offer a set of concrete suggestions that can be applied to any discipline or domain to ensure that all learners can access and participate in meaningful, challenging learning opportunities. UDL principles website contains many details on each of the following  main principles, which you can take with you from this course as a resource that you can study and apply later.   \n\nUDL proposes three main principles:\nProvide multiple means of engagement with the subject and learning environment, to support learners’ interests. For example, provide varied classroom environments and opportunities to work both collaboratively and alone. Offer learners a choice of ways to learn.\nProvide multiple means of representation of learning materials, for example, by offering learning content in different formats so that learners can choose the format that suits them.  Same content can be offered in text-based, audio and video formats, or learners could be asked to explore a subject using whatever resources they can find through an online search.\nProvide multiple means of action and expression in learning, to provide learners alternatives for demonstrating what they know. For example, by giving learners a choice to write an essay, give a presentation or record a video.\n\nFurther study:\nUDL (Universal Design for Learning)\n\nMain principles and process of outcome driven training design\nA common approach to designing a course is known as outcome driven or “backward design”. This means starting with your training goals and working backwards to decide how best to achieve them. In this course we applied the backward design approach, firstly focusing on the outcomes for the course and then on how to demonstrate that the skills have been achieved. In an outcome driven design approach, the content and activities are developed once the learning outcomes are defined.\n\n\nFirst, you need to break down your goals into specific Learning Outcomes (LOs). Learning Outcomes define the knowledge, skills and attitudes that learners should be able to demonstrate after instruction or a learning intervention, the tangible evidence that the teaching goals have been achieved. In one of the next step of this course, you will learn how to write effective learning outcomes. The key point is to decide what you want your learners to be able to do, to fulfill the aims and goals of your training.\nAs you are formulating your Learning Outcomes, consider how exactly you will measure or assess whether the outcomes have been achieved, and how learners will demonstrate that they have new knowledge and skills. This could be through some kind of testing, but it doesn’t have to be. In many cases, the outcomes can be demonstrated by learners in different ways, and we talked about this in the previous step on Universal Design for Learning. \nOnce you have decided the Learning Outcomes and how they will be demonstrated, you can design the learning activities which will enable students to acquire, practise and apply the knowledge and skills needed to be able to do what you have defined. Importantly, this will include finding out what the students already know and giving them the opportunity to build on that. The activities you design will enable the students to learn the subject content to be able to achieve the Learning Outcomes.\n\nAlthough this design process is described as being “backward” it is really an iterative process. You may find that you revise your Learning Outcomes as you consider the practicalities of assessment or of designing learning activities. As you design particular elements of training, you will refer back to your Learning Outcomes to make sure that everything is aligned: the Learning Outcomes support the goals, the assessments allow the Learning Outcomes to be demonstrated, the learning activities allow students to practise the skills defined by the Learning Outcomes.\nIn summary, when focusing on learners’ needs and using the outcome-based design, you should:\n\nidentify desired results\ndetermine what is the evidence of understanding or how will you assess that learners have achieved the desired outcome\nplan the learning based on knowledge required about key concepts, skills and strategies required to perform the work and\ndesign the activities that will achieve the required outcome.\n\n\n\nIntroduction to competencies\nBefore we move into the next topic of how to write learning outcomes, let’s briefly mention here one of the factors that can influence a  choice of learning outcomes for a specific training that you might be trying to design. \nIn each field of work, there is usually a set of competencies (behaviours or technical attributes) that individuals should possess to successfully fulfil their professional roles within that field. When these competencies are  grouped together for a field or a profession, they are called competency frameworks.  In a course providing training for the roles defined in this way, the training designer should include the set of competencies required for each roles, and make sure that the intended learning outcomes can support/address specific or the competency framework requirements. \nCompetency mapping is a process of identifying key competencies needed to successfully carry out a specific job or set of tasks. Several competency frameworks exist in the field of genomics and bioinformatics, based on professional roles, from researchers to healthcare professionals (you will find some included in the References for this module). In this article we will briefly discuss the role of competency frameworks in designing a specific course, although they can also be used wider, to map existing courses within a programme, to determine which competencies are not addressed and thus determine the need for a new course.\nEach competency can be divided into knowledge, skills and attitudes (KSA) needed to successfully fulfil that competency within a role. Knowledge, skills and attitudes can further be defined in terms of the level (i.e. from basic to advanced) adequate for a specific role. \nIf  your field has a set of competencies defined for specific roles/professions and you would like to incorporate them into the design of your training, you would normally follow the  process below:\n\n Identify competencies that your training will address \n Identify the level required for each competency\n Consider your target audience and any pre-requisite needed (these might in some cases be already defined by the   competency framework you are using)\n Define objectives and learning outcomes for your training which will address the knowledge, skills and attitude defined by the chosen competencies\n Flesh out curriculum and depth (level) of content \n Add proposed content to cover the intended learning outcomes\n Think of ways to assess the intended learning outcomes \n Develop activities and training material  \n\nThe iterative nature of course design and development assumes that this process is never one off and never a strict algorithmic procedure. There should also exist different evaluation mechanisms that can be planned at the stage of course design, to help with deciding on changes and improvements.\nIn the next step, we will concentrate on how to write learning outcomes, as part of the outcome driven design we talked about in the previous step and considered here in the context of using a competency framework.\n\n\nUse of Bloom’s taxonomy to write SMART Learning Outcomes\n\n\nFrom novices to experts\nLearning has a ‘vertical’ dimension - to develop competence in some area, a learner first has to have a deep foundation of factual knowledge, then to understand the material taught and be able to organise their knowledge in a way that facilitates retrieval and application across different contexts. Further progression on this cognitive ladder builds upon these foundation levels – with the development of the higher order cognitive abilities, which include analysis, evaluation and creation.\n\n\nBloom’s taxonomy\nBloom’s simplified model of cognitive development, in practice better known as Bloom’s taxonomy, is a theoretical framework widely used in education. It consists of six levels, with the three lower cognitive levels (knowledge, comprehension, and application) upon which higher levels (analysis, evaluation, creation) are built, as illustrated in the picture.\n\n\n\nBloom’s digital taxonomy\nBloom’s Digital Taxonomy. The addition of new verbs that represent actions in digital world, such as blog, programme etc. helps incorporate and create digitally enhanced learning using appropriate digital tools. Watch the video to find out more.\n\n\n\nLearning outcomes\nLearning outcomes (LOs) describe what course participants should be able to do or demonstrate – in terms of particular knowledge, skills, and attitudes – by the end of the course.\nFor example: By the end of this programme/ course participants will be able to:\n• Describe and critically evaluate a range of up-to-date genomic technologies and platforms used to sequence targeted parts of the genome or whole genomes\n• Discuss and critically appraise approaches to the bioinformatics\nIdentifying Learning Outcomes\n\nWhen identifying LOs consider what knowledge, understanding and skills you intend participants to learn through the course. The following questions may help with this:\n\n• What do you want participants to know and be able to do by the end of the course?\n• How will participants be able to use their learning? Doing what? What contexts?\n• What will participants need to do in order to demonstrate if / how well they have achieved these\noutcomes?\n• If participants are asked ‘what did you learn during this course?’ how would you like them to answer?\n\n\nFormulating learning outcomes\n\nWriting learning outcomes\nIt is helpful to express LOs using an active verb (what participants will be able to do) + object + qualifying phrase to provide a context. \nBy the end of the course, learners will be able to:\n\nCritically evaluate (verb) a range of up-to-date genomic technologies and platforms (object) used to sequence targeted parts of the genome or whole genomes (qualifying phrase)\nSynthesise (verb) information obtained from whole genome analysis with patient information (object) to determine diagnosis, penetrance or prognosis for a number of common and rare diseases (qualifying phrase)\n\n\n\nVocabulary for LOs\nBloom’s taxonomy provides a potential vocabulary for articulating different kinds and level of outcome. The following table is based on Bloom’s Taxonomy of cognitive learning and provides ways of describing outcomes at different levels of knowing and understanding.\n\n\n\nHow Bloom’s Taxonomy can be used for writing LOs\n\n\n\nForum: Discuss learning outcomes for this course\nHere are the top level Learning Outcomes for this course:\n\nExplain the flow of pathogen genomic data/information from generation to interpretation in healthcare and public health settings.\nDesign training and communication formats by applying evidence-based learning science methodologies.\nIdentify appropriate training resources for use in training pathogen genomics and surveillance tools.\nDeliver pathogen genomic data science training to professionals working in genomic epidemiology, surveillance and outbreak investigation.\nEvaluate the self-developed training and knowledge sharing of pathogen genomic data science.\n\nPick one of the outcomes and start a thread in this forum with that name (if someone else has started it already, please use that thread). For each learning outcome, discuss the Bloom’s levels, structure of the sentence (verb, object and qualifying phrase) and comment on whether that particular outcome is written in a SMART manner. Suggest improvements if applicable.  \n\n\nIntroduction to training evaluation\nIn this step, we will briefly look at the evaluation of training. We will look at it as an integral part of the course design.\nEvaluation is the process of systematically generating knowledge that can support learning, quality improvement and good judgement in decision-making. Evaluation of training is important as it allows trainers to reflect on the strategy, format and content of the course and identify potential changes to improve the training impact.\nThe scope of the evaluation will influence what approach is most useful. You might be evaluating anything from a single learning activity, tool or technology, to a whole course or program, to the impact of educational policy at national or even international level.\nOne of the main principles of evaluation is that evaluation should start as soon as the initiative or strategy is being planned and implemented allowing the evaluation to inform its development and implementation from the start.\nEvaluation should also be adapted to the specific context where it takes place, and be flexible to adjustment based on different contextual changes, such as staff turnover, policy change or perhaps political and economic changes that might arise.\nMost importantly, evaluation should build the skills, knowledge and perspectives of all individuals involved, to self-reflect, communicate and act based on data and knowledge acquired throughout the evaluation process.\n\n\nTypes of evaluation\nEvaluation can start before the course to form part of a needs assessment to inform the scope and content of the training event. The evaluation process can then continue during and after the course to indicate whether specific objectives have been achieved.\nFormative evaluation is run during the course in order to identify problems and obstacles and make necessary adjustments in real-time. That way, it feeds back into the course usually immediately. This type of evaluation is normally carried out internally, and can focus on different aspects of the course, including performance monitoring.\nSummative evaluation is run after the course and aims to look at how effectively the course has achieved the expected outcomes and impact.\nImpact evaluations are a type of summative evaluation, and look at what has happened or changed as a result of an initiative and how that change occurred. It will typically look at the impact on people directly involved in an initiative (e.g. educators and learners) but also on other stakeholders.\nEvaluation is often a combination of different types mentioned above, and may include pre-course needs analysis, formative evaluation during the course as well as summative evaluation of the impact or some expected course outcome.\nWho benefits from evaluation?\n\nThe teachers or trainers, as evaluation is inherent to good teaching practice and allows them to see what works and what doesn’t.\nThe learners currently taking the course as their performance and improvement can be monitored and responded to appropriately.\nLearners who have completed the course, helping them to reflect on and evidence the impact of the course, in order to demonstrate CPD requirements or further their careers.\nFuture learners on the course who will benefit from improvements\nThe organisation running the course who can address accountability and QA benchmarks.\n\nFurther reading:\n Kellogg’s Evaluation Guide\n\n\nForum: Scope of training and teaching\nMost of what we taught in this module can be applied to different scopes and formats of teaching/training. The trainer’s or teacher’s knowledge, skills and attitudes we talked about are needed to apply an active, learner centred approach to teaching/training . However, we paid most attention to training of adult professionals that often takes place via short courses, workshops, seminars, on job training (or in-person, virtual or hybrid equivalents).  You might be working or planning to work on a university course or even the programme consisting of more than one course. You will still be able to use the principles of learning and training described in this module and further in Module 2, in other contexts where your work might be situated. \nWhat is the scope of teaching/training you will be working on and what do you think are the main differences in design approach between short training courses and university courses?\n\n\nPlanning your own project for the course\nAs part of the active learning approach used in this course, we offer a hands-on activity, the course project, to help reinforce the theoretical learning and apply the knowledge acquired. The course project will consist of your own training design, and this process will be facilitated by instructors of this course and supported by a tool, called T3connect toolkit, created to help you systemise and record your design.  \nWe will introduce the T3connect toolkit a bit later, at the beginning of the in person part of this course. T3connect toolkit contains a worksheet for noting down individual objectives, networking and collaboration opportunities. It also contains a template for designing and planning your own training. You may already be thinking about what components from this course most apply to your own settings. Use this opportunity to design and take away something that might be useful later on, perhaps a core of a training you can finalise or adapt, use and share. It could be a talk or a module that you wish to present within an existing course in your institution, a demonstration of specific analytical steps for a small group of students or lab mates. Think of something feasible you could start with.\nAs a quick overview think what, how, to whom and when you would like to present/teach/train. Below are some pointers on what to think about:\n\nIf it’s a training or if it’s just a presentation that you wish to give, start with the topic, target audience and bullet points on what you want the audience to learn or what you hope to achieve in the end.\nWrite down the title of the training, course, or module which you like to run or present.\nWho your target audience will be, what the pre-requisites are, what level or depth your training or presentation needs to have\nThen come up with the learning outcomes, list 3-5 maximum\nWith LO’s you can then come up with types of exercises you might want to do and the ways of how to assess them \nWhat software would be needed, what other resources would be needed and for how many people?\nWhich location or venue will be used, how many people you would teach or present to"
+  },
+  {
+    "objectID": "module1a/module1a_references.html",
+    "href": "module1a/module1a_references.html",
+    "title": "References and Acknowledgements",
+    "section": "",
+    "text": "Slides on References and Acknowledgements"
+  },
+  {
+    "objectID": "module1a/module1a_elements.html",
+    "href": "module1a/module1a_elements.html",
+    "title": "Elements of effective training",
+    "section": "",
+    "text": "Elements of effective training and communication in genomics and bioinformatics\n\n\nSharing knowledge/skills and information in genomics and bioinformatics\nThis section of the course presents sharing knowledge and information, both in general and specific to genomics.\nWithin the context of this course we are mainly concentrating on teaching, training and mentoring as ways of conveying information to peers and colleagues. Many of the techniques and approaches to training are also relevant to other types of information sharing, such as communicating data or procedures to colleagues. \nIn the following activities, we will discuss effective communication in general, and then move on to visualising and communicating data and information. Learners will benefit from applying some of these techniques throughout the course, and beyond in their own training.\n\n\nAnswering and asking questions\n\nFurther reading:\nBest Practice Strategies for Effective Use of Questions as a Teaching Tool - PMC (nih.gov)\nLet’s enjoy the Q&A session\n\n\nGroup work and collaboration\nSeveral studies have shown the advantages of collaborative learning. Group work is one of the most studied and implemented training techniques in the world.\n\n\n\nVisualising and presenting data and information\nWith ever increasing amount and complexity of biological and genomic data and information, there is a growing need for visualising it in a clear and appealing manner and communicating it often to different audiences. To visualise data means to transform it into a picture reflecting the information, so that people can understand it. Data visualisation is also important for communicating research in publications.  \nHere are excerpts from an interview with Andy Kirk, specialist on data visualising and presenting. He suggests three main principles for data/information visualisation:\n1. It should be trustworthy, so the audience consumes reliable and accurate information and knowledge.\n2. It should be accessible. This means clarification, removing unnecessary obstacles to understanding. Accessible data presentation is about removing unnecessary confusion, things that people don’t understand how to read. \n3. The third principle is about elegance and appearance. Can we make our work as aesthetically appealing and as attractive as possible?\nSome important aspect when presenting data and information to an audience: \nThe audience Think about the audience you are presenting to, about the receiver of your message. What are the characteristics of your audience: What do they need to know? What do they currently not know? What are their motivations for what they will do with this? Is it about direct decision making or actions? Or is it just an extra grain of knowledge about something? Are they in a situation that’s under pressure? We should always try to put ourselves into the mindset of the recipient and think about their capabilities and how they will encounter our work.\n\nThe same data can be presented in many different ways to many different audiences. It’s not always practical to be able to share it in many different ways. We have to decide: there’ll be things that this person needs to know, and this person wants to know over here. We sometimes may have only one chance to present. We should think about the sense of prioritisation . If we try to present to the different audiences at the same time, there is a danger that potentially neither will receive the message. When we say: design for your audience, what it means is quite subtle, because it is about their characteristics, the capabilities, the confidence. \n\nPresenting research We might be thinking that the only people who will be reading our work are experts with the exact same knowledge, and the exact same interest in a subject as us, while that’s rarely the case. Even if we are sharing information with scientists, not everybody has the immediacy to understand what’s being portrayed. We should start off simplifying things, removing redundancies. Removing the things that are overly technical and that can be explained in a more accessible fashion. \nWhat tools should be used to present data? It is very easy for us to look around at all the new, innovative ideas, and think that there’s no role for the bar chart or for the line chart anymore, because they’re old charts. We still need those. There’s a time and place for every chart. But crucially, every chart answers a data question. One of the key things that we always need to establish, before we get excited about the ways that we might present our data, is to determine what it is we are trying to answer through an individual chart panel, what is it that someone looking at this work will be able to get an answer to. So, questions are crucial, questions are everything. In fact, questions come before data, because we collect data in response to a question.\nSelectivity A lot of scientists feel that every single data point is important. It may be that every data point is valuable, but there has to be a hierarchy. There must be some things that are more relevant, more important than others, an audience may have to look at something, and to understand something. We shouldn’t treat all data points equally. Some need to be suppressed, some need to be elevated. We can get a bit doubtful about the notion of editorial thinking, assuming that somehow it’s massaging results, or hiding things. But it is about editing, it’s about choosing what to include, and what to exclude.\nFeedback and collaboration The formats we can use to present can be different: is it a journal article, with very small size graphic? Is it for the mobile, or a tablet, on the move? Is it a huge display in a poster, where there is a presenter alongside the poster, and you can have a conversation about the piece. There’s lots of dynamics about the situation that someone would encounter our presentation. Asking collaborator or teamwork for a feedback before presenting is really important. Because sometimes, we try and do everything ourselves, but even if we can just introduce a second person’s mindset, ask a colleague, ask a critical friend about it, we can receive a different insight. Feedback is really something we reluctantly seek out, but we should. We should ask people to test things, run things past people. Sometimes, we ourselves as creators, get too close to our work, we lose sight of what it is we’re trying to say. Collaborating with others, getting other people to check things and test things, at the very least, is something that is going to give us the best chance of having the biggest impact with what it is we present.\nFurther reading:\nHere is Andy’s website, presenting many examples and resources on data visualisation and presentation. \nTipsfor improving your visualisation design.   \n\n\nForum: Obstacles to learning/training genomics and bioinformatics\nLearners are asked to create a new discussion topic mentioning a major challenge that affects their ability to train effectively in genomics or bioinformatics.\nAreas you might consider: availability of time and resources, trainer knowledge and skills, reaching the right target audience, lack of institutional support, etc"
+  },
+  {
+    "objectID": "module1a/module1a_quiz_adult_learning.html",
+    "href": "module1a/module1a_quiz_adult_learning.html",
+    "title": "Quiz on adult learning",
+    "section": "",
+    "text": "This quiz should help learners to self-assess whether they have understood all the material so far. If there is something they are not sure about, they can revisit the earlier steps and retake the quiz i. The result of the quiz does not affect your progress on this course in any way.\nThe methods and practice of teaching adults are called:\na. Andralogy b. Analogy c. Andragogy d. Pedagogy\nAccording to adult learning principles, adult learners are:\na. Self-directed\nb. Self-taught\nc. Self-aware\nd. Self-sufficient\nOne of the main characteristics of adult learners is that they:\na. Don’t need to learn much\nb. Have a vast array of experiences to build upon\nc. Like the job they do\nd. Are financially stable\nOne of the main motivating factors for an adult learner is:\na. Satisfying curiosity\nb. Problem solving\nc. Passing the time\nd. Meeting other people\nAdult learners would like to see the immediate application of their newly acquired knowledge or skills: \na. Sometimes\nb. Rarely\nc. Mostly\nd. Almost never"
+  },
+  {
+    "objectID": "module3a/module3a_activity2.html",
+    "href": "module3a/module3a_activity2.html",
+    "title": "Activity 2",
+    "section": "",
+    "text": "Please divide into 5 groups.\nYou will be given different metadata fields (metadata study). Please answer the following:\n\nwhat could this tell you about the species of the genomes?\nwhat are the implications for this patient/s?\nWhat are the other public health implications?"
+  },
+  {
+    "objectID": "module3a/module3a_presentation.html",
+    "href": "module3a/module3a_presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "Presentation: Best practice in specimen collection and handling"
+  },
+  {
+    "objectID": "module3a/module3a_activity1.html",
+    "href": "module3a/module3a_activity1.html",
+    "title": "Activity 1",
+    "section": "",
+    "text": "Please read the article: Mycobacterium tuberculosis transmission in Birmingham, UK, 2009–19: An observational study before module 3A starts and think about the following:\na. What gaps did the study have in the context of sample and data collection?\nb. What would they have done better to improve sample and data collection?\nc. How do they think they would teach the lessons learned from this case study?"
+  },
+  {
+    "objectID": "module3a/module3a_overview.html",
+    "href": "module3a/module3a_overview.html",
+    "title": "Module 3A",
+    "section": "",
+    "text": "Module leads: Dr Wilber Sabiiti and Dr Charlene Rodrigues\nLate of last revision: June 2023\nThis module was made available to participants through a Learning Management System, during the actual face-to-face course.\nIntroduction\nPresentation: Best practice in specimen collection and handling\nActivity 1: TB case study\nActivity 2: Metadata study\nVideos: Specimen collection & processing\nResources\nReferences and Acknowledgements"
+  },
+  {
+    "objectID": "module3a/module3a_references.html",
+    "href": "module3a/module3a_references.html",
+    "title": "References and Acknowledgements",
+    "section": "",
+    "text": "Slides on References and acknowledgements"
+  },
+  {
+    "objectID": "module3a/module3a_videos.html",
+    "href": "module3a/module3a_videos.html",
+    "title": "Videos",
+    "section": "",
+    "text": "Specimen collection and processing: Video on YouTube\nSpecimen labeling errors"
+  },
+  {
+    "objectID": "module3a/module3a_introduction.html",
+    "href": "module3a/module3a_introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Module 3A sets a foundation in the process of collecting appropriate samples and metadata, correct storage and processing depending on the types of WGS needed to address a given clinical question to inform policy or practice. The module aims to make the trainees appreciate the critical value of pre-analytical processes of specimen collection and processing to the outcome data and its interpretation/application. Answering questions, why is the specimen needed, what type of specimen, how is the specimen processed and when should the specimen be collected is crucial for acquiring quality and informative data."
+  },
+  {
+    "objectID": "module3d/module3d_presentation_examples.html",
+    "href": "module3d/module3d_presentation_examples.html",
+    "title": "Examples of strategies",
+    "section": "",
+    "text": "Presentation: Examples of strategies"
+  },
+  {
+    "objectID": "module3d/module3d_introduction.html",
+    "href": "module3d/module3d_introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This module is focused on interpreting the data produced at different stages of the pathogen genomics pipeline, from quality control of sequence data up to the interpretation of downstream reports (e.g. outbreak investigations, genotypic AMR detection, etc.), with a particular focus on specific applications, and limitations of current approaches. Plenty of real-world examples and case studies are provided to introduce the multiple teaching topics and sub-topics, provide strategies to deliver learning outcomes, and extensive resources to design teaching content."
+  },
+  {
+    "objectID": "module3d/module3d_references.html",
+    "href": "module3d/module3d_references.html",
+    "title": "References and Acknowledgements",
+    "section": "",
+    "text": "Slides on References and acknowledgements"
+  },
+  {
+    "objectID": "module3d/module3d_overview.html",
+    "href": "module3d/module3d_overview.html",
+    "title": "Module 3D",
+    "section": "",
+    "text": "Module lead: Francesc Coll\nLate of last revision: June 2023\nThis module was made available to participants through a Learning Management System, during the actual face-to-face course.\nIntroduction\nPresentation: How to train - data interpretation and application\nPresentation: Strategies to deliver topics and sub-topics of pathogen genomics content\nPresentation: Examples of strategies\nGroup activity\nResources\nReferences and Acknowledgements"
+  },
+  {
+    "objectID": "module3d/module3d_presentation_how_to_train.html",
+    "href": "module3d/module3d_presentation_how_to_train.html",
+    "title": "How to train",
+    "section": "",
+    "text": "Presentation: How to train - data interpretation and application"
+  },
+  {
+    "objectID": "module3d/module3d_presentation_strategies.html",
+    "href": "module3d/module3d_presentation_strategies.html",
+    "title": "Strategies to deliver training",
+    "section": "",
+    "text": "Presentation: Strategies to deliver topics and sub-topics of pathogen genomics content"
+  },
+  {
+    "objectID": "module3d/module3d_resources.html",
+    "href": "module3d/module3d_resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "In this section you will find a list to resources on implementing pathogen sequencing, from major public health agencies and foundations, which can be used to design appropriate content, including real-work case studies, for pathogen genomics courses.\n- Global Microbial Identifier: https://www.globalmicrobialidentifier.org/about-gmi\n- WHO report on \"The use of next-generation sequencing technologies for the detection of mutations associated with drug resistance in Mycobacterium tuberculosis complex: technical guide\" (https://apps.who.int/iris/handle/10665/274443)  \n- ISO on Microbiology of the food chain — Whole genome sequencing for typing and genomic characterization of bacteria — General requirements and guidance (https://www.iso.org/standard/75509.html)\n- GLASS 2020 report on Whole-genome sequencing for surveillance of antimicrobial resistance (https://apps.who.int/iris/bitstream/handle/10665/334354/9789240011007-eng.pdf)\n-  Use of Whole Genome Sequencing by the Federal Interagency Collaboration for Genomics for Food and Feed Safety in the United States (https://www.fda.gov/food/science-research-food/whole-genome-sequencing-wgs-program)\n- FIND report on Sequencing for antimicrobial resistance surveillance (https://www.finddx.org/wp-content/uploads/2022/04/20220211_Sequencing-for-AMR-surveillance.pdf)\n- PHG foundation report Pathogen Genomics Into Practice (https://www.phgfoundation.org/report/pathogen-genomics-into-practice)\n- PHE Expert opinion on whole genome sequencing for public health surveillance  (https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/731057/implementing_pathogen_genomics_a_case_study.pdf)\n- UKHSA guidance on \"Mycobacterium tuberculosis whole-genome sequencing and cluster investigation handbook\" (https://www.gov.uk/government/publications/tb-strain-typing-and-cluster-investigation-handbook/mycobacterium-tuberculosis-whole-genome-sequencing-and-cluster-investigation-handbook)\n- US CDC \"Guide to the Application of Genotyping to Tuberculosis Prevention and Control\" (https://www.cdc.gov/tb/programs/genotyping/manual.htm)"
+  },
+  {
+    "objectID": "module3d/module3d_group_activity.html",
+    "href": "module3d/module3d_group_activity.html",
+    "title": "Group acticity",
+    "section": "",
+    "text": "Working with the rest members of your group, and for the teaching topic your group has been assigned to, design a session on data interpretation and applications. You can consider the following points:\n\nBased on the list of teaching sub-topics of your assigned topic (listed in Table 1), and based on your professional experience in pathogen genomics, can you propose other content sub-topics that could be covered too?\nCan you identify the key theoretical knowledge that should be taught first to provide learners with the relevant grounding and background of your topic? These may include biological, microbiological, genetics, laboratory or sequencing technical aspects.\nBased on the examples of teaching strategies listed in Table 2 for your topic, and based on your professional experience, can you think of other ways or examples of designing and delivering your teaching content?\nBased on the assessment activities and examples of case-studies listed in Table 2, the content presented in the ‘Content and Resources’ document, and on your professional experience, can you think of other assessment activities and case-studies that could be used to design, deliver and assess your content topic?\nBased on the characteristics of your topic, and considering different target audiences, would the theoretical knowledge, teaching strategies, case-studies and/or assessment activities need to be designed and delivered differently based on the target audience?\n\nEach group of participants will need to present their discussion results to the rest of the class."
+  },
+  {
+    "objectID": "dataviz/dataviz_groupactivity_python.html",
+    "href": "dataviz/dataviz_groupactivity_python.html",
+    "title": "dataviz_groupactivity_python",
+    "section": "",
+    "text": "Five labs submit samples to a regional reference centre, for QC and bioinformatics analysis.\nThe data is received in a table format, from a live google sheet.\nThe regional reference centre processes the data and, for each sample, give an output of Pass / Fail.\nThe goals of this exercise are to 1) find out which labs have the quickest turn around times 2) find out if some labs lag behind quality control\n```{python} import pandas as pd ```"
+  },
+  {
+    "objectID": "dataviz/dataviz.html",
+    "href": "dataviz/dataviz.html",
+    "title": "Workshop on Data Viz",
+    "section": "",
+    "text": "This page provides resources designed and developed for the Data Viz workshop."
+  },
+  {
+    "objectID": "dataviz/dataviz.html#workshop-outline",
+    "href": "dataviz/dataviz.html#workshop-outline",
+    "title": "Workshop on Data Viz",
+    "section": "Workshop outline:",
+    "text": "Workshop outline:\n\nDiscuss aspects of good storytelling. \nReflect on how one can use visualisation to tell a story about data.\nIn groups, discuss what are the best visualisation methods for a given task\nDemonstrate how Microreact can be used to tell a story.\nIn a hands-on exercise, apply techniques from Microreact to tell a story. \nProvide resources to aid healthcare workers visualise their data."
+  },
+  {
+    "objectID": "dataviz/dataviz.html#introduction",
+    "href": "dataviz/dataviz.html#introduction",
+    "title": "Workshop on Data Viz",
+    "section": "Introduction",
+    "text": "Introduction\nPresentation\nPrinciples of good story telling\n\nKeep it simple, where possible\nBuild up towards complex figures\nBe consistent, but do not be repetitive\n\nExamples: Last chapter of the book “Fundamentals of Data Visualization” by Claus O. Wilke \nClever trick examples\n\nsometimes cropping large values is justified\nfinding a common scale size and arrangement of all the charts\nusing a fading effect at the lower end of the chart\nsetting the y-axis maximum\nusing irregular axis scales\nwhen it makes more sense to directly label the bars with their actual values\n\nGroup Activity: Real scenario from a public health lab in the USA: Can we identify ways to reduce poor sequencing outcomes?\nDemonstration on how Microreact can be used to tell a story\nActivity: Using Microreact to tell our own story\nResources: Microreact instructional videos"
+  },
+  {
+    "objectID": "dataviz/dataviz_Microreact_activity.html",
+    "href": "dataviz/dataviz_Microreact_activity.html",
+    "title": "Dataviz Microreact activity",
+    "section": "",
+    "text": "Explore and describe parts of the Klebsiella pneumoniae global collection. \n\nDemos to start your story\nKlebsiella pneumoniae in Colombia\n\nPresent WGS QC statistics in a chart. \nWhat are the dominating STs in Colombia?\nPlot metadata blocks for CTX-M-15, NDM-1, KPC and  OXA genes. What are the prevalent AMR mechanisms detected ?\nWhich STs are associated with the presence of carbapenamase genes?\n\nColombia microreact link\n\nColombia article"
+  },
+  {
+    "objectID": "dataviz/dataviz_Microreact_demo.html",
+    "href": "dataviz/dataviz_Microreact_demo.html",
+    "title": "Microreact demo",
+    "section": "",
+    "text": "Microreact can be used to describe a large collection of 1451 isolates of Klebsiella pneumoniae, sampled from four countries (Colombia, India, Nigeria and The Philippines) between 2013 and 2019.\n\nKlebsiella pneumoniae is a species of bacteria that is commonly found in natural and man-made environments. It has the impressive ability to colonise diverse animal species, including ourselves, pets and livestock. In healthy humans, K. pneumoniae is frequently found on the skin, in the mouth, and in the respiratory and gastrointestinal tracts. But K. pneumoniae is also an opportunistic pathogen, and can cause a wide range of infections in humans (and other animals). These include urinary tract, respiratory and bloodstream infections. \n\nIn recent years, there have been an increasing number of infections with K. pneumoniae that are resistant to antibiotics. One study found that carbapenem-resistant K. pneumoniae is the fastest-growing antibiotic resistance threat in Europe, with a 6-fold increase in the number of attributable deaths between 2007 and 2015. K. pneumoniae infections are particularly associated with patients who are very young (i.e. new-born babies), elderly, or immunocompromised.\nMicroreact demo link\nData taken from a series of articles published in 2021 in the journal Clinical Infectious Diseases:\n\nGlobal collection article\n\nPhilippines article\nIndia article\nNigeria article\nColombia article"
+  },
+  {
+    "objectID": "dataviz/dataviz_groupactivity.html",
+    "href": "dataviz/dataviz_groupactivity.html",
+    "title": "Dataviz workshop group activity",
+    "section": "",
+    "text": "Group Activity: Real scenario from a public health lab in the USA: Can we identify ways to reduce poor sequencing outcomes?\nA state public health lab receives samples from individual labs. The data is aggregated in a spreadsheet.\nThe state public health lab sequences samples and analyses the data using bioinformatics methods, and adds their results to a spreadsheet.\nPlease find below three alternative data visualisation options:\n\nUsing a spreadsheet\nUsing Python (this is available in Google Colab)\nUsing Data-flo and Microreact\n\nWork in groups to answer the following questions and present your findings to the rest of the classroom.\n*What happens if the data input changes ?\nWhat if we add more input data ?\nWhat if date intervals change ?\nWhat if the question changes, would you change the methods you used to train your audience?\nWhich method would you train others to apply and why ?\nCan you think which tools and applications would you use to analyse data in different contexts? eg for difference audience*\nPlease free to express your thoughts on different technologies/implementations by replying to this forum."
+  }
+]

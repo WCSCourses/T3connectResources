@@ -1,0 +1,24 @@
+Sample ID	Isolation Date	Hospital	Ward	Source	Location	Patient Age	Patient Sex	First Name	Last Name
+IDA001RS	27/09/2022	Hinxton Hospital	IDA	Clinical		48	F	Agatha	Christie
+IDA002BSI	24/09/2022	Hinxton Hospital	IDA	Clinical		65	f	Emily	Bronte
+IES012	24/09/2022	Hinxton Hospital	ICU	Clinical		66	M	Arthur	Clarke
+KPN001	11/08/2022	Hinxton Hospital	ICU	Clinical		34	F	Virginia	Woolf
+KPN002	09/08/2022	Hinxton Hospital	ICU	Clinical		23	m	Aldous	Huxley
+IES052	17/08/2022	Hinxton Hospital	ICU	Environmental	Footboard				
+ICP138	09/10/2022	Hinxton Hospital	ICU	Clinical		49	M	Lewis	Carroll
+ICP137	03/10/2022	Hinxton Hospital	D5	Clinical		42	m	Conan	Doyle
+IES077	29/08/2022	Hinxton Hospital	L4	Clinical		73	M	George	Orwell
+IES053	18/08/2022	Hinxton Hospital	ICU	Environmental	Sink				
+IES065	22/08/2022	Hinxton Hospital	ICU	Clinical		55	f	Mary	Shelley
+ICP145	13/10/2022	Hinxton Hospital	D5	Environmental	Footboard				
+ICP147	13/10/2022	Hinxton Hospital	D5	Environmental	Floor				
+ICP148	13/10/2022	Hinxton Hospital	D5	Environmental	Sink				
+ICP152	20/10/2022	Hinxton Hospital	D5	Clinical		79	m	Roald	Dahl
+ICP153	13/10/2022	Hinxton Hospital	D5	Clinical		50	m	Charles	Dickens
+ICP161	19/09/2022	Hinxton Hospital	D5	Environmental	Footboard				
+IES112	05/09/2022	Hinxton Hospital	ICU	Clinical		68	F	Charlotte	Bronte
+IES111	04/09/2022	Hinxton Hospital	NCCU	Clinical		57	f	Jane	Austeen
+ICP004	21/09/2022	Hinxton Hospital	ICU	Clinical		59	M	Graham	Greene
+ICP027	22/07/2022	Hinxton Hospital	ICU	Clinical		64	f	Beatrix	Potter
+ICP139	12/10/2022	Hinxton Hospital	ICU	Clinical		71	M	Evelyn	Waugh
+IES103	30/09/2022	Hinxton Hospital	L4	Environmental	Floor				
