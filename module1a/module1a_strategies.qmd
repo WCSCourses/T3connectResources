@@ -6,6 +6,10 @@ title: "Strategies for training professionals"
 
 #### Learning theory - Pedagogy and Andragogy
 
+```{=html}
+<iframe src="https://wellcomegenomecampus.h5p.com/content/1291759681592900897/embed" aria-label="Transcript for this video" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://wellcomegenomecampus.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+```
+
 **What is Pedagogy?**
 
 Pedagogy refers to the art of learning and teaching, based on how we learn and how we accommodate this learning. It describes the theory of learning and teaching and the methods and activities of teaching.
